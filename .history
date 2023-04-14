@@ -1,0 +1,6363 @@
+source .config/zsh/.zshrc
+vim .config/zsh/.zshrc
+source .config/zsh/.zshrc
+cd ./co
+cd .config
+cd zsh
+ls -la
+mkdir plugins
+cd plugins
+mkdir sudo
+cd sudo
+ls -la
+vim sudo.plugin.zsh
+pwd
+cd ../../
+vim .zshrc
+source .zshrc
+fzf
+sudo pacman -S fzf
+fzf
+ls -la
+cd plugins
+neofetch
+git clone https://github.com/Aloxaf/fzf-tab
+ls -la
+cd fzf-tab
+ls -la
+cd ../
+cd../
+cd ../
+vim .zshrc
+source .zshrc
+vim .zshrc
+ls -la
+cd .c
+cd .config
+cd zsh
+ls -la
+ls Downloads
+cd Downloads
+rm blur-grub2_fullhd.tar
+ls -la
+startx
+time zsh
+time ls -la
+time
+time zsh -q
+time ls 
+man time
+time zsh
+time zsh -i -c exit
+poweroff
+sudo pacman -R open-vm-tools
+startx
+poweroff
+startx
+sudo pacman -S  open-vm-tools
+sudo pacman -S  xf86-video-vmware
+sudo \
+3\
+ \
+systemctl enable vmtoolsd
+sudo systemctl enable vmtoolsd
+reboot
+sudo reboot
+startx
+sudo systemctl enable vmware-vmblock-fuse
+reboot
+sudo reboot
+sudo pacman -Q 
+poweroff
+startx
+fdisk
+fdisk -h
+fdisk -l
+sudo fdisk -l
+sudo fdisk -lh
+sudo fdisk -l
+startx
+sudo fdisk -l
+cd /mnt
+ls -la
+mkdir USB
+sudo mkdir USB
+mount /dev/sdb1 /mnt/USB
+sudo mount /dev/sdb1 /mnt/USB
+ntfs-3g
+sudo ntfs-3g /dev/sdb1 /mnt/USB/
+df -h
+umount /mnt/USB
+sudo umount /mnt/USB
+sudo ntfs-3g /dev/sdb1 /mnt/USB/
+ls -la
+df -h
+cd USB
+ls -la
+sudo fdisk -l
+ls -la
+cd ~
+cd /
+ls -la
+sudo fdisk -l
+umount /mnt/USB
+sudo umount /mnt/USB
+poweroff
+startx
+pacman -S papirus-icon-theme
+sudo pacman -S papirus-icon-theme
+pacman -S lxappearance
+sudo pacman -S lxappearance
+df -h
+df -h
+fdisk
+sudo fdisk -l
+sudo ntfs-3g /dev/sdb1 /mnt/USB/
+cd /mnt
+cd USB
+ls -la
+cd System\ Volume\ Information/
+ls -la
+cd ../
+ls -la
+cd Videos
+ls -la
+cd Learn\ Go\ Programming\ by\ Building\ 11\ Projects\ ‚ÄÉ≥\ Full\ Course
+ls -la
+mpv Learn\ Go\ Programming\ by\ Building\ 11\ Projects\ ‚ÄÉ≥\ Full\ Course.mp4
+mpv Learn\ Go\ Programming\ by\ Building\ 11\ Projects\ ‚ÄÉ≥\ Full\ Course.mp4
+ls -la
+cd ~
+ls -la
+vim .gtkrc-2.0
+cd .config
+;s -la
+ls -la
+sudo pacman -Rs mpv
+sudo pacman -S vlc
+startx
+startx
+startx
+startx
+poweroff
+cd .config
+ls -la
+cd picom
+vim picom.conf
+sudo ntfs-3g /dev/sdb1 /mnt/USB/
+sudo ntfs-3g /dev/sdb1 /mnt/USB/
+btop
+poweroff
+startx
+ping baidu.com
+cat /sys/class/power_supply/BAT1/status
+yay -S linuxqq
+ls -la
+ls -la
+cd Downloads
+ls -la
+cat /sys/class/power_supply/BAT0/charge_full
+cat /sys/class/power_supply/BAT1/charge_full
+cat /sys/class/power_supply/BAT1/status
+cat /sys/class/power_supply/BAT1/capacity
+cat /sys/class/power_supply/BAT1/capacity_level
+ls /sys/class/power_supply/BAT1/
+ls -la  /sys/class/power_supply/BAT1/
+ls -la  /sys/class/power_supply/BAT1/energy_now
+cat  /sys/class/power_supply/BAT1/energy_now
+full  /sys/class/power_supply/BAT1/energy_now
+cat   /sys/class/power_supply/BAT1/energy_full
+cat   /sys/class/power_supply/BAT1/power_now
+startx
+startx
+ls -la
+cd .config
+ls -la
+cd mpv
+ls -la
+cd ../
+mkdir Scripts
+vim battery.sh
+poweroff
+cd /etc/docker
+cd /etc/
+ls -la
+sudo vim /etc/docker/daemon.json
+sudo vim /etc/docker/daemon.json
+ls -la
+mkdir docker
+sudo mkdir docker
+cd docker
+sudo vim /etc/docker/daemon.json
+sudo systemctl daemon-reload
+sudo systemctl start docker
+sudo docker info
+sudo systemctl restart docker
+sudo docker info
+sudo docker pull mzz2017/v2raya
+ sudo usermod -aG docker $USER
+exit
+ls -la
+sudo pacman -S docker
+sudo docker info
+sudo systemctl statr docker.service
+sudo systemctl start docker.service
+sudo docker info
+ls -la
+cd .config
+ls -la
+cd ~
+cd .local
+cd share
+ls -la
+docker ps
+docker run -d \\
+  --restart=always \\
+  --privileged \\
+  --network=host \\
+  --name v2raya \\
+  -e V2RAYA_LOG_FILE=/tmp/v2raya.log \\
+  -v /lib/modules:/lib/modules:ro \\
+  -v /etc/resolv.conf:/etc/resolv.conf \\
+  -v /etc/v2raya:/etc/v2raya \\
+  mzz2017/v2raya
+docker ps -a
+docker  inspect 4f74cc10dd23
+sudo poweroff
+startx
+ls -la
+go version
+poweroff
+startx
+ls -la
+cd Downloads
+ls -la
+curl https://golang.google.cn/dl/go1.20.1.linux-amd64.tar.gz
+ls -la
+curl -o https://golang.google.cn/dl/go1.20.1.linux-amd64.tar.gz
+curl -O https://golang.google.cn/dl/go1.20.1.linux-amd64.tar.gz
+ls -la
+ sudo rm -rf /usr/local/go && tar -C /usr/local -xzf go1.20.1.linux-amd64.tar.gz
+sudo pacman -S tar
+ sudo rm -rf /usr/local/go && tar -C /usr/local -xzf go1.20.1.linux-amd64.tar.gz
+ sudo rm -rf /usr/local/go && sudo tar -C /usr/local -xzf go1.20.1.linux-amd64.tar.gz
+ sudo tar -C /usr/local -xzf go1.20.1.linux-amd64.tar.gz
+ sudo rm -rf /usr/local/go && sudo tar -C /usr/local -xvf go1.20.1.linux-amd64.tar.gz
+ sudo rm -rf /usr/local/go && sudo tar -C /usr/local -xzf go1.20.1.linux-amd64.tar.gz
+ rm -rf /usr/local/go && tar -C /usr/local -xzf go1.20.1.linux-amd64.tar.gz
+rm go1.20.1.linux-amd64.tar.gz
+sudo pacman -S wget
+wget https://dl.google.com/go/go1.20.1.linux-amd64.tar.gz
+ sudo rm -rf /usr/local/go && tar -C /usr/local -xzf go1.20.1.linux-amd64.tar.gz
+ sudo rm -rf /usr/local/go && sudo tar -C /usr/local -xzf go1.20.1.linux-amd64.tar.gz
+cd ~/
+ls -la
+cd .config
+ls -la
+cd zsh
+vim .zshrc
+ls -la
+cd ~
+ls -la
+mkdir Code
+cd Code
+mkdir GO
+rm -rf GO
+mkdir Go
+cd Go
+pwd
+cd ~
+cd .config
+cd zsh
+vim .zshrc
+go env
+source .zshrc
+go env
+cd ~/Code
+cd Go
+ls -la
+mkdir src
+ls -la
+startx
+cd Code
+cd Go
+ls -la
+	ls -la
+mkdir bin
+mkdir pkg
+ls -la
+systemctl start docker
+sudo systemctl start docker
+docker ps
+curl -fLo ~/.vim/autoload/plug.vim --create-dirs \\
+    https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+curl -fLo ~/.vim/autoload/plug.vim --create-dirs \\
+    https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+curl -fLo ~/.vim/autoload/plug.vim --create-dirs  https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+sudo pacman -S curl
+curl -fLo ~/.vim/autoload/plug.vim --create-dirs \\
+    https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+curl -fLo ~/.vim/autoload/plug.vim --create-dirs \\
+    https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+curl -fLo ~/.vim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+pacman -Syyu
+curl -fLo ~/.vim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+startx
+startx
+sudo pacman -SYyu
+sudo pacman -Syyu
+poweroff
+startx
+curl -fLo ~/.vim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+curl -fLo ~/.vim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+curl -fLo ~/.vim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+curl -fLo ~/.vim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+ls -la
+cd .vim
+ls -lac
+cd autoload
+ls -la
+cd ~
+ls -la
+mkdir ~/.config/vim
+cp -R ~/.vim/* ~/.config/vim/
+ls -la
+cd .config
+ls -la
+cd vim
+ls -la
+cd autoload
+ls -la
+cd ~
+ls -la
+cd .vim
+ls -la
+vim .netrwhist
+vim .netrwhist
+ls -la
+cd ../
+ls -la
+cd .config
+ls -la
+rm -rf vim
+ls -la
+cd ../
+vim ~/.vimrc
+vim ~/.vimrc
+vim
+vim
+ls -la
+sudo pacman -S nodejs
+vim
+vim .vimrc
+vim
+cd Code
+cd Go
+ls -la
+cd bin
+ls -la
+cd ../
+cd pkg
+ls -la
+cd !
+yay -s visual-studio-code-bin
+ls -la
+cd ~
+ls -la
+btop
+free -h
+btop
+sudo systemctl start docker
+xprop
+xprop
+yay -S paper-gtk-theme-git
+yay -S paper-gtk-theme-git
+cd .config/
+cd picom
+ls -la
+vim picom.conf
+yay -S nordic-theme
+startx
+vim .vimrc
+vim .vimrc
+vim
+vim .vimrc
+vim
+ls -la
+vim
+vim
+vim .vimrc
+vim
+vim
+vim .vimrc
+vim .vimrc
+vim
+vim .vimrc
+vim .vimrc
+vim .vimrc
+vim .vimrc
+vim .vimrc
+vim .vimrc
+vim .vimrc
+vim .vimrc
+vim .vimrc
+vim .vimrc
+ls -la
+vim .vimrc
+cd Code
+ls -la
+cd ../
+cd .config
+cd picom
+vim picom.conf
+cd ../
+vim .vimrc
+cd ../
+vim .vimrc
+vim .vimrc
+vim .vimrc
+vim .vimrc
+vim .vimrc
+vim .vimrc
+vim .vimrc
+vim .vimrc
+vim .vimrc
+vim .vimrc
+cd Code
+cd Go
+cd src
+mkdir first
+cd first
+vim hello.go
+vim hello.go
+go env
+vim ~/.config/zsh/.zshrc
+vim hello.go
+go env
+exit
+vim
+vim .vimrc
+vim
+vim
+vim .vimrc
+go env
+vf .config
+cd .config
+cd zsh
+vim .zshrc
+go env
+cd .config
+cd zsh
+cd ~/Code/Go/src
+cd first
+vim hello.go
+poweroff
+startx
+startx
+yay -S win11-gtk-theme-git
+yay -R win11-gtk-theme-git
+yay -S vimix-cursors
+sudo reboot
+startx
+vim .vimrc
+vim .vimrc
+vim
+vim
+vim .vimrc
+vim .vimrc
+vim .vimrc
+vim .vimrc
+vim .vimrc
+vim .vimrc
+vim .vimrc
+vim .vimrc
+vim .vimrc
+vim .vimrc
+vim .vimrc
+vim .vimrc
+vim .vimrc
+sudo poweroff
+startx
+sudo systemctl start docker 
+sudo pacman -S npm
+startx
+ls -la
+cd .local
+ls -la
+poweroff
+startx
+poweroff
+ip a
+sudo pacman -S zsh
+cd .config/
+ls -la
+tar -xzvf zsh.tar.gz 
+ls -la
+rm zsh.tar.gz 
+chsh -S /bin/zsh
+chsh -s /bin/zsh
+source zsh/.zshrc 
+exit
+ls -la
+source .config/zsh/.zshrc
+ls -la
+sudo pacman -S zsh-syntax-highlighting
+exit
+btop
+btop
+btop
+google-chrome-stable
+google-chrome-stable
+btop
+sudo pacman -S picom
+sudo pacman -S btop
+btop
+pacman -S nerd-fonts-jetbrains-mono
+sudo pacman -S nerd-fonts-jetbrains-mono
+sudo pacman -S nerd-fonts-jetbrains-mono
+sudo pacman -S nerd-fonts-jetbrains-mono
+sudo pacman -S yay
+sudo pacman -Syyu
+sudo pacman -S nerd-fonts-jetbrains-mono
+sudo pacman -S archlinuxcn-keyring
+sudo pacman -S nerd-fonts-jetbrains-mono
+sudo pacman -S yay
+sudo pacman -S adobe-source-han-serif-cn-fonts wqy-zenhei
+sudo pacman -S noto-fonts noto-fonts-cjk noto-fonts-emoji noto-fonts-extra
+sudo pacman -S ntfs-3g
+sudo pacman -S xiv
+sudo pacman -S sxiv
+yay -S google-chrome
+yay -S lxappearance
+vim .xinitrc
+sudo pacman -S nitrogen 
+cd .local
+mkdir wallpaper
+cd wallpaper
+sudo pacman -S wget
+wget https://wall.alphacoders.com/big.php?i=1301276
+exit
+sudo systemctl start sshd
+startx
+vim .xinitrc
+startx
+startx
+startx
+startx
+cd .local
+cd wallpaper
+wget https://wall.alphacoders.com/big.php?i=1301276
+wget https://images7.alphacoders.com/130/1301276.jpg?dl=1
+poweroff
+sudo poweroff
+alias
+ip a
+ping baidu.com
+sudo pacman -S neoftch
+sudo pacman -S neofetch
+neofetch
+google-chrome-stable
+startx
+lsblk
+df -h
+fdisk
+sudo fdisk -l
+poweroff
+sudo poweroff
+cd .local
+ls -la
+rm -rf wallpaper
+cd ~
+vim .zcompdump
+sudo pacman -S rofi
+ping baidu.com
+ping www.baidu.com
+cd .local
+cd dwm
+make clean
+sudo make uninstall
+cd ../
+rm -rf dwm
+ls -la
+tar -xzvf dwm.tar.gz
+ls -la
+rm dwm.tar.gz
+cd dwm
+sudo make clean install 
+sudo pacman -S rofi
+ranger
+alsamixer
+\:q
+btop
+btop
+btop
+btop
+\
+
+btop
+fcitx5
+fcitx5-configtool
+pacman -S fcitx5-gtk
+sudo pacman -S fcitx5-gtk
+fcitx5-configtool
+sudo pacman -S fcitx5-qt 
+fcitx5-configtool
+sudo pacman -R fcitx5-qt 
+vim .xinitrc
+cd .config
+ls -la
+vim /etc/default/grub
+sudo vim /etc/default/grub
+sudo vim /etc/default/grub
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+sudo vim /etc/default/grub
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+sudo vim /etc/default/grub
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+sudo pacman -Syyu
+sudo pacman -S networkmanager
+sudo vim /etc/systemd/system/getty.target.wants/getty@tty1.service
+sudo pacman -S alsa-utils 
+sudo pacman -S pulseaudio
+alsamixer
+sudo pacman -S pulseaudio-alsa
+alsamixer
+iptables
+yay -S linuxqq
+ls -la
+cd btop
+ls -la
+vim btop.conf
+cd themes
+ls -la
+cd ../
+vim btop.conf
+vim btop.conf
+sudo pacman -S fcitx5-im
+	sudo pacman -S fcitx5-chinese-addons
+sudo pacman -S fcitx5-anthy
+sudo pacman -S fcitx5-pinyin-moegirl
+sudo pacman -S fcitx5-material-color
+cd ~
+vim .xinitrc
+ranger
+ranger
+vim ~/.config/fcitx5/conf/classicui.conf
+ranger
+sudo pacman -S lolcat
+neofetch
+yay -S 	visual-studio-code-bin
+sudo pacman -S papirus-icon-theme
+yay -S whitesur-gtk-theme
+sudo pacman -S docker
+sudo systemctl start docker
+sudo systemctl start docker
+docker ps
+sudo docker ps
+sudo usermod -aG docker $USER
+sudo systemctl restart docker
+docker ps
+reboot
+sudo reboot
+systemctl start sshd
+sudo systemctl start sshd
+ip a
+ip a
+startx
+startx
+startx
+startx
+startx
+startx
+sudo systemctl start sshd
+startx
+startx
+poweroff
+docker 
+docker ps
+cd /etc/docker
+cd /etc
+ls -la
+sudo mkdir -p /etc/docker
+vim /etc/docker/daemon.json
+sudo vim /etc/docker/daemon.json
+sudo systemctl daemon-reload
+sudo systemctl restart docker
+docker ps -a
+docker pull mzz2017/v2raya
+docker images
+docker run -d \\
+  --restart=always \\
+  --privileged \\
+  --network=host \\
+  --name v2raya \\
+  -e V2RAYA_LOG_FILE=/tmp/v2raya.log \\
+  -v /lib/modules:/lib/modules:ro \\
+  -v /etc/resolv.conf:/etc/resolv.conf \\
+  -v /etc/v2raya:/etc/v2raya \\
+  mzz2017/v2raya
+docker ps -a
+docker stop adcaa7eb0391
+docker restart adcaa7eb0391
+sudo pacman -S smbclient
+uname -a
+date
+ls -a
+ls -la
+mkdir Code
+cd Code
+cd Code
+mkdir Go
+ls -la
+ls -la
+mkdir downloads
+cd downloads
+wget https://golang.google.cn/dl/go1.20.1.linux-amd64.tar.gz
+sudo  rm -rf /usr/local/go 
+sudo  tar -C /usr/local -xzf go1.20.1.linux-amd64.tar.gz
+go version
+cd ~/.config
+cd zsh
+cat .zshrc
+docker run -d \\
+  --privileged \\
+  --network=host \\
+  --name v2raya \\
+  -e V2RAYA_ADDRESS=0.0.0.0:2017 \\
+  -v /lib/modules:/lib/modules \\
+  -v /etc/resolv.conf:/etc/resolv.conf \\
+  -v /etc/v2raya:/etc/v2raya \\
+  mzz2017/v2raya
+docker stop 27f21cb8f22b
+docker rm 27f21cb8f22b
+cat text
+ls -la
+rm text
+ls -la
+alsamixer
+history
+history -a
+yay -S whitesur-gtk-theme
+poweroff
+yay -S clash-for-windows-bin
+ls -la
+vim text
+vim .xinitrc
+cd Code
+ls -la
+cd Go
+mkdir src
+mkdir bin
+mkdir pkg
+ls -la
+cd ../
+mkdir web
+ls -la
+rm -rf web
+mkdir Web
+sudo systemctl start docker
+docker ps
+docker stop v2raya
+docker rm v2raya
+sudo systemctl star sshd
+sudo systemctl start sshd
+ping www.baidu.com
+startx
+startx
+startx
+startx
+neofetch
+btop
+startx
+ip a
+poweroff
+startx
+poweroff
+ll
+cd .local
+cd dwm
+ls -la
+vim config.def.h.rej
+vim config.def.h.rej
+vim dwm.c.rej
+vim config.def.h
+ls -la
+cat config.def.h.rej
+rm -r config.h
+ls -la
+mv dwm-focusonclick-20200110-61bb8b2.diff patches
+ls -la
+cd patches
+ls -la
+cd ../
+vim config.def.h.rej
+vim dwm.c.rej
+vim dwm.c.rej
+cat dwm.c.rej
+sudo systemctl start sshd
+startx
+startx
+startx
+startx
+ls -la
+nmtui
+systemctl start NetworkManager.service
+sudo systemctl start NetworkManager.service
+sudo systemctl enable NetworkManager.service
+nmtui
+ping baidu.com
+cd .local
+ls -la
+cd dwm
+ls -la
+mkdir patches
+wget https://dwm.suckless.org/patches/alwayscenter/dwm-alwayscenter-20200625-f04cac6.diff
+patch < dwm-alwayscenter-20200625-f04cac6.diff
+mv dwm-alwayscenter-20200625-f04cac6.diff patches
+wget https://dwm.suckless.org/patches/pertag/dwm-pertag-20200914-61bb8b2.diff
+patch <  dwm-pertag-20200914-61bb8b2.diff
+mv dwm-pertag-20200914-61bb8b2.diff patches
+ls -la
+wget https://dwm.suckless.org/patches/rotatestack/dwm-rotatestack-20161021-ab9571b.diff
+patch < dwm-rotatestack-20161021-ab9571b.diff
+ls -la
+mv dwm-rotatestack-20161021-ab9571b.diff patches
+ls -la
+sudo make clean install
+rm config.h
+sudo make clean install
+ls -la
+wget https://dwm.suckless.org/patches/focusonclick/dwm-focusonclick-20200110-61bb8b2.diff
+patch < dwm-focusonclick-20200110-61bb8b2.diff
+vim config.def.h
+vim dwm.c
+ls -la
+rm config.h
+sudo make clean install
+sudo make clean install
+ls -la
+wget https://dwm.suckless.org/patches/scratchpad/dwm-scratchpad-20221102-ba56fe9.diff
+ls -la
+patch < dwm-scratchpad-20221102-ba56fe9.diff
+ls -la
+vim config.def.h
+vim dwm.c
+vim dwm.c
+sudo make clean install
+rm config.h
+ls -la
+rm config.h
+ls -la
+sudo make clean install
+vim Makefile
+sudo make clean install
+ls -la
+mv dwm-scratchpad-20221102-ba56fe9.diff patches
+vim config.def.h
+vim config.def.h
+vim dwm.c
+rm config.h
+ls -la
+sudo make clean install
+sudo poweroff
+neofetch
+ping www.baidu.com
+ping www.baidu.com
+neofetch
+alsamixer
+poweroff
+startx
+halt
+sudo halt
+cd /var
+cd log
+cd journal
+ls -la
+cd cad50b16fc1f44d88bd0189bd59cd60e
+ls -la
+rm *
+y
+yls -la
+ls -la
+rm -rf *
+ls -la
+sudo shutdown
+sudo shutdown -n
+sudo shutdown -N
+sudo shutdown -now
+sudo shutdown now
+sudo systemctl daemon-reload 
+sudo systemctl daemon-reload 
+poweroff
+sudo systemctl start sshd
+cd downloads
+ls -la
+git clone https://github.com/adi1090x/rofi.git
+cd rofi
+ls -la
+sh setup.sh
+cd ../
+rm -rf rofi
+cd ../
+ls -la
+cd .config
+ls -la
+cd rofi
+ls -la
+cd launchers
+ls -la
+cd ~
+cd .config/rofi/launchers
+cd type-3
+ls -la
+pwd
+cd ~/.local/dwm
+vim config.def.h
+vim config.def.h
+rm config.h
+sudo make clean install
+vim config.def.h
+rm config.h
+sudo make clean install
+sudo make clean install
+rm config.h
+vim config.def.h
+cd ~
+cd ~
+cd .config/rofi
+cd launchers
+ls -la
+cd type-4
+ls -la
+vim style-2.rasi
+cd ../
+ls -la
+cd ,,.
+cd ..
+ls -la
+cd applets
+ls -la
+cd shared
+ls -la
+vim fonts.rasi
+su root
+startx
+startx
+startx
+ls -la
+cd ./
+cd downloads
+ls -la
+git clone https://github.com/bubstance/suckless.git
+ls -la
+cd suckless
+cd dwmstatus
+ls -la
+sudo make clean install
+dwmstatus
+ls -la
+cd .local
+ls -la
+cd dwm 
+ls -la
+wget https://dwm.suckless.org/patches/status2d/dwm-status2d-6.3.diff
+patch < dwm-status2d-6.3.diff
+vim dwm.c
+sudo make clean install
+cd .local
+cd dwm
+ls -la
+vim dwm.c.rej
+startx
+poweroff
+cd downloads
+ls -la
+cd suckless
+ls -la
+cd dwmstatus
+ls -a
+ls -la
+cd src
+ls -la
+vim dwmstatus.c
+vim dwmstatus.c
+cd ../
+make clean insta
+sudo make clean install
+vim dwmstatus.c
+cd src
+vim dwmstatus.c
+cd ../
+sudo make clean install
+vim dwmstatus.c
+cd src
+vim dwmstatus.c
+vim dwmstatus.c
+vim dwmstatus.c
+vim dwmstatus.c
+vim dwmstatus.c
+vim dwmstatus.c
+btop
+cd downloads
+cd suckless
+cd dwmstatus
+ls -la
+cd src
+cd ../
+sudo make clean install
+sudo make clean install
+sudo make clean install
+sudo make clean install
+sudo make clean install
+btop
+poweroff
+vim .xinitrc
+startx
+startx
+pacman -S xrand
+sudo pacman -S xrand
+neotetch
+neofetch
+xrandr -q
+xrandr --output HDMI-1-1 --mode 1280x720
+ping baidu.com
+btop
+xrandr
+xrandr --output HDMI-1-1 --auto
+ls -la
+code
+startx
+startx
+poweroff
+xrandr
+xrandr --output Virtual-1 --auto
+xrandr --output Virtual-1 --mode 1920x1080
+xrandr --output Virtual-1 --mode 1856x1392
+xrandr --output Virtual-1 --mode 1400x1050
+cd .local
+cd st
+vim config.def.h
+rm config.h
+sudo make clean install
+ls -la
+cd ~/.config
+git clone https://github.com/yaocccc/nvim
+sudo pacman -S neovim
+nvim
+cd nvim
+ls -la
+cd ftplugin
+ls -la
+cd ../
+ls -la
+cd plugin
+ls -la
+nvim packer_compiled.lua
+nvim
+nvim
+nvim
+nvim
+cd ../
+cd ../
+rm -rf nvim
+git clone https://github.com/yaocccc/nvim
+nvim
+nvim
+nvim
+git clone https://github.com/yaocccc/nvim
+git clone https://github.com/yaocccc/nvim
+ls -la
+rm -rf nvim
+git clone https://github.com/yaocccc/nvim
+nvim
+rm -rf nvim
+git clone https://github.com/yaocccc/nvim
+nvim
+ls -la
+cd nvim 
+ls -la
+vim init.lua
+cd ftplugin
+ls -la
+vim python.vim
+cd ../
+ls -la
+cd plugin
+ls -la
+vim packer_compiled.lua
+nvim
+\:q
+cd ~
+cd Code
+ls -la
+cd Go
+go env
+ls -ka
+cd src
+vim hello.go
+nvim 
+vim hello.go
+nvim 
+nvim 
+vim hello.go
+nvim hello.go
+nvim hello.go
+go run hello.go
+ls -la
+rm hello.go
+sudo pacman -Syyu
+systemctl start sshd
+sudo systemctl start sshd
+history
+python
+cd Go
+cd Code
+cd go
+cd Go
+cd src
+ls -la
+nvim hello.go
+go run hello.go
+ls -la
+rm hello.go
+ls -la
+nvim
+sudo pacman -S open-vm-tools
+cd Go
+cd Code
+cd Code
+cd Go
+cd src
+ls -la
+cd ../
+ls -la
+ls -la
+cd src
+ls -la
+cd ../
+cd ../
+ls -la
+cd Web
+ls -la
+cd ../
+ls -la-
+ls -la
+cd ./
+cd ~/.config/nvim
+ls -la
+\:q
+cd ~
+fzf
+history
+cd ../
+cd H
+cd .config
+cd zsh
+ls -la
+nvim .history
+ls -la
+startx
+startx
+startx
+ls -la
+cd ~/.config
+git clone https://github.com/yaocccc/nvim
+cd nvim
+ls -la
+cd plugin
+ls -la
+vim packer_compiled.lua
+sudo pacman -S the_silver_searcher
+nvim
+vim packer_compiled.lua
+cd ../
+cd ../
+cd ../
+cd .local
+cd nv
+cd ../
+cd .config
+ls -la
+cd nvim
+ls -la
+cd ftplugin
+ls -la
+vim go.vim
+cd ../
+ls -la
+vim init.lua
+vim lua
+vim lua/packinit.lua
+nvim
+vim lua/packinit.lua
+sudo pacman -S nodejs
+sudo pacman -S npm
+npm i -g neovim
+sudo npm i -g neovim
+nvim
+cd ../
+rm -rf nvim
+rm -rf ~/.local/share/nvim
+ls -la
+sudo pacman -S python
+python
+rm -rf ~/.local/share/nvim
+cd ~/.local
+ls -la
+cd share
+cd nvim
+ls -l;a
+ls -la
+cd site
+ls -la
+cd pack
+ls -A
+ls -la
+cd packer
+ls -la
+cd opt
+ls -la
+cd markdown-preview.nvim
+ls -la
+sudo pacman -S yarn
+ls -la
+vim plugin
+cd plugin
+ls -la
+cd ../
+\:Q
+\:cd ~
+cd ~
+cd ~/.local/share/nvim/site/pack/packer/opt/
+ls -la
+cd fzf
+ls -la
+cd ../
+rebot
+reboot
+cd ~
+startx
+exit
+systemctl start vmtoolsd.service
+sudo systemctl start vmtoolsd.service
+sudo systemctl start sshd.service 
+ping www.baidu.com
+startx
+startx
+startx
+sudo pacman -S smartmontools
+sudo pacman -S smartmontools
+ping baidu.com
+ping www.baidu.com
+ping www.baidu.com
+dhcpcd
+sudo dhcpcd
+ifconfig
+ip a
+ping baidu.com
+poweroff
+startx
+ping baidu.com
+ping www.baidu.com
+ip a
+nmtui
+poweroff
+ping www.baidu.com
+systemctl start vmtoolsd.service
+sudo systemctl start vmtoolsd.service'
+sudo systemctl start vmtoolsd.service
+sudo pacman -S smartmontools
+sudo smartctl --scan
+sudo smartctl -H /dev/sda
+sudo smartctl -a /dev/sda | grep -i 'remaining life'
+smartctl --info /dev/sda
+sudo smartctl --info /dev/sda
+ping www.baidu.com
+sudo systemctl start sshd.service
+ls -la
+cd Code
+cd Web
+ls -la
+cd ../
+cd ~
+cd .config
+ls -la
+cd zsh
+ls -la
+vim .alias
+vim .zshrc
+nvim .zshrc
+nvim .zshrc
+source .zshrc
+vim
+cd ~
+vim
+cd .config
+cd zsh
+cd zsh
+vim .zshrc
+cd .config
+cd zsh
+vim .zshrc
+ls -la
+vim .zshrc
+nvim .zshrc
+nvim
+vim
+ls -la
+cd Code
+cd Web
+cd Â∞ÉØ
+cd Â∞ÉØÁ±≥
+ls -la
+vim mi.html
+history
+startx
+startx
+popweroff
+poweroff
+startvmtools
+startsshd
+startx
+startx
+reboot
+ping www.baidu.com
+ping www.baidu.com
+ping www.baidu.com
+ping baidu.com
+sudo startvmtools
+ startvmtools
+ping baidu.com
+ping baidu.com
+cd downloads
+cd suckless
+ls -la
+cd dwmstatus
+ls -la
+sudo make clean uninstall
+vim makefile
+vim makefile
+sudo make mrproper 
+ls -la
+dwmstatus
+vim makefile
+sudo make clean install
+vim makefile
+sudo make clean uninstall
+dwmstatus
+ls -la
+make clean 
+ls -la
+./dwmstatus
+cd downloads
+cd ../
+ls -la
+cd .local
+cd st
+ls -la
+vim Makefile
+sudo make clean uninstall
+sudo make clean install
+cd .local
+cd dwm
+vim dwm.c
+cd .local
+cd dwm
+vim dwm.c.rej
+vim .xinitrc
+cd downloads
+ls -la
+rm -rf suckless
+ls -la
+cd ../
+cd .local/dwm
+ls -la
+mv dwm-status2d-6.3.diff patches
+ls -la
+wget https://dwm.suckless.org/patches/status2d/dwm-status2d-systray-6.4.diff
+patch < dwm-status2d-systray-6.4.diff
+ls -la
+vim dwm.c.rej
+su root
+su root
+cd .local
+cd dwm
+ls -la
+vim dwm.c
+startsshd
+ls -la
+patch -R < dwm-status2d-systray-6.4.diff
+ls -la
+sudo make clean install
+cd .local
+ls -la
+cd dwm
+ls -la
+rm dwm-status2d-systray-6.4.diff
+vim dwm.c
+cd ../
+oweroff
+poweroff
+ls -la
+startx
+startx
+startx
+startx
+sudo pacman -S telegram-desktop 
+btop
+pacman -S discord
+sudo pacman -S discord
+staartvotools
+startvmtools
+ls -la
+startx
+sudo poweroff
+cd .local
+ls -la
+cd dwm
+vim dwm.c
+sudo make clean install
+rm config.h
+sudo make clean install
+cd .local
+ls -la
+cd dwm
+ls -la
+cd patches
+ls -la
+cd ../
+git log
+git add .
+git commit -m "patch"
+git config --global user.email "Young"
+git config --global user.name "Young"
+git commit -m "patch"
+wget https://dwm.suckless.org/patches/systray/dwm-systray-6.4.diff
+patch < dwm-systray-6.4.diff
+ls -la
+vim dwm.c.rej
+yay -S clipboard
+clipboard
+vim .xinitrc
+cd ../
+ls -la
+cd .config
+ls -la
+cd ../
+cd .local
+ls -la
+cd dwm
+ls -la
+vim dwm.c
+sudo make clean isntall
+sudo make clean install
+vim dwm.c
+vim dwm.c
+sudo make clean install
+history
+history -a
+xprop
+xprop
+xprop
+xprop
+cd .local
+ls -la
+cd dwm
+vim dwm.c
+git add .
+git commit -m "systary"
+ls -la
+mv dwm-systray-6.4.diff patches
+ls -la
+pacman -S mpv
+sudo pacman -S mpv
+mpv
+mpv
+sudo pacman -Rns mpv
+rm -rm ~/.config/mpv
+rm -rf ~/.config/mpv
+sudo pacman -Rns mpv
+sudo pacman -S mpv
+ls -la
+cd .local
+ls -la
+cd ../
+cd .config
+ls -la
+cd mpv
+ls -la
+vim mpv.conf
+cd .config
+cd mpv
+vim mpv.conf
+xprop
+vim mpv.conf
+vim mpv.conf
+mpv --geometry=800*600 -1+1
+cd ../
+rm -ef mpv
+rm -rf mpv
+cp -r /usr/share/doc/mpv/ ~/.config/
+ls -la
+cd mpv
+ls -la
+vim mpv.conf
+vim mpv.conf
+vim mpv.conf
+vim mpv.conf
+startvmtools
+tartx
+startx
+startx
+startx
+startx
+startx
+sudo pacman -Rns mpv
+rm -rf ~/.config/mpv
+sudo pacman -S smplayer
+yay -S papirus-smplayer-theme-git
+reboot
+startvmtools
+yay -S smplayer-themes
+yay -R papirus-smplayer-theme-git
+yay -R papirus-smplayer-theme-git
+sudo systemctl start sshd
+ls -la
+cd Downloads
+ls -la
+cd Telegram\ Desktop
+ls -la
+vim Computer\ Problem\ Solving\ using\ C.pdf
+ls -la
+cd ../
+ls -la
+rm -rf Telegram\ Desktop
+ls -la
+cd ../
+rm -rf downloads
+cd Downloads
+ls -la
+cd Code
+ls -la
+cd Go
+ls -la
+cd src
+mkdir Bookstore-Management
+cd Bookstore-Management
+go mode init Book
+go mod init Book
+ls -la
+vim go.mod
+go get "github/.com/jinzhu/gorm"
+go get "github.com/jinzhu/gorm"
+go get "github.com/jinzhu/gorm"
+ls -la
+vim go.mod
+vim go.sum
+go get "github.com/jinzhu/gorm/dialects/mysql"
+go get "github.com/gorilla/mux"
+ls -la
+yay -S typora-free
+yay -R typora-free
+btop
+startx
+startx
+startx
+startx
+poweroff
+cd Code
+cd go
+cd Go
+cd src
+cd Bookstore-Management
+mkdir cmd
+mkdir cmd/main
+touch cmd/main/main.go
+mkdir pkg
+mkdir pkg/{config,controllers,modes,routes}
+cd pkg
+ls -la
+touch config/app.go controllers/book-controller.go routes/bookstore-route.go 
+mkdir utils.go
+rm -rf utils.go
+mkdir utils
+touch utils/utile.go
+ls -la
+sudo systemctl start docker
+docker ps
+cd routes
+vim bookstore-route.go
+ startvmtools
+ls -la
+startx
+startx
+poweroff
+pacman -S spotify
+sudo pacman -S spotify
+yay -S spotify
+yay -R spotify
+sudo pacman -S spotify
+sudo pacman -R spotify
+yay -R spotify
+yay -R spotify
+yay -S spotify
+yay -S jetbrains-toolbox
+cd /home/H/.local/share/JetBrains/Toolbox
+ls -la
+cd [200~/home/H/.local/share/JetBrains/Toolbox/scripts~
+cd /home/H/.local/share/JetBrains/Toolbox/scripts
+ls -la
+cd ~
+btop
+btop
+btop
+where google-chrome-stable
+vim .icons
+vim .xinitrc
+ls -la
+cd .local/
+ls -la
+mkdir Java
+cp ../Downloads/jdk-8u341-linux-x64.tar.gz ./
+ls -la
+mv jdk-8u341-linux-x64.tar.gz Java
+ls -la
+cd Java
+tar -xzvf jdk-8u341-linux-x64.tar.gz
+ls -la
+cd jdk1.8.0_341
+ls -la
+cd ../
+mv jdk1.8.0_341 jdk1.8
+cd jdk1.8
+ls -la
+cd lib
+ls -la
+j
+cd Code
+ls -la
+mkdir Java
+java
+java -v
+java -V
+java version
+java -version
+btop
+cd Code
+cd Java
+ls -la
+rm -rf firstone
+poweroff
+startvmtools
+startx
+startx
+startx
+btop
+startx
+poweroff
+sudo systemctl start docker
+docker images
+docker rmi 998cc326cf58
+docker run -d --name mysql -p 3306:3306 -e MYSQL_ROOT_PASSWORD=123456 mysql
+docker ps -a
+neofetch
+yay -S wps-office ttf-wps-fonts
+btop
+yay -S wps-office ttf-wps-fonts
+btop
+cd Code
+cd ../
+ls -la
+cd ÊÉÅÉ¨ÈÉΩÉÇ
+ls -la
+cd ../
+rm -rf ÊÉÅÉ¨ÈÉΩÉÇ
+cd .java
+ls -la
+cd fonts
+ls -la
+cd ~
+LS -LA
+ls -la
+cd .m2
+ls -la
+cd repository
+ls -la
+cd org
+ls -la
+cd apache
+ls -la
+cd maven
+ls -la
+cd archetypes
+cd ~
+df
+lsblk
+fcitx5
+btop
+fcitx5
+vim .xinitrc
+startx
+vim .xinitrc
+startx
+startx
+startx
+ls -la
+cd Code
+ls -la
+cd J
+cd Java
+pwd
+mv ~/.m2    ./
+ls -la
+cd ~
+ls -la
+cd Code
+ls -la
+cd Java
+ls -la
+rm -rf Study
+poweroff
+btop
+ls -la
+cd Code
+cd Java
+ls -la
+pwd
+cd ~
+ls -la
+vim .python_history
+rm .python_history
+startx
+poweroff
+startx
+CD /ETC
+cd Downloads
+ls -la
+cd D
+ls -la
+mkdir ÂÆÉæÈ™É¨1
+mv * ÂÆÉæÈ™É¨1
+ls -la
+cd ÂÆÉæÈ™É¨1
+ls -la
+sudo pacman -S flameshot
+cd ..
+ls -la
+mv apache-maven-3.6.3-b.zip ~/Code/Java
+cd ~/Code
+cd Java
+ls -la
+rm -rf ptu202012900839
+sudo pacman -S unzip
+unzip apache-maven-3.6.3-b.zip
+ls -la
+rm apache-maven-3.6.3-b.zip
+rm -rf .m2
+ls -la
+cd apache-maven-3.6.3
+ls -la
+cd conf
+ls -la
+vim settings.xml
+ls -la
+cd ~
+ls -la
+btop
+date
+cd /etc
+ls -la
+vim locale.conf
+vim localtime
+vim locale.gen
+cd ~/Code
+ls -la
+cd Java
+ls -la
+rm -rf ptu202012900839 untitled
+poweroff
+ping baidu.com
+startx
+ping baid.com
+ping www.baid.com
+poweroff
+ping www.baidu.com
+sudo pacman -S obsidian 
+startx
+startx
+poweroff
+ls -la
+rm -rm lesson2-eureka-server
+rm -rm lesson2-eureka-server
+ls -la
+ls -la
+startx
+startx
+btop
+lsblk
+df -h
+top
+btop
+du -h
+du
+du -sh
+cd ./
+cd  /
+du -sh
+sudo du -sh
+du -h
+poweroff
+su root
+cd /etc
+ls -la
+btop
+startvmtools
+startx
+btop
+df
+lsblk
+lsblk
+df -h
+du -sh .
+du -sh .
+du -h . | sort -hr
+du -h . | sort -hr > 1.txt
+ls -la
+vim 1.txt
+sudo du -h . | sort -hr >> 1.txt
+vim 1.txt
+sudo du -h / | sort -hr >> 1.txt
+vim 1.txt
+rm 1.txt
+sudo du -h / | sort -hr &> 1.txt
+vim 1.txt
+rm 1.txt
+ls -la
+cd Code
+ls -la
+cd Go
+ls -la
+cd src
+ls -la
+mkdir study
+startvmtools
+startx
+poweroff
+startvmtools
+startx
+ls -la
+cd Code
+ls -la
+cd Java
+ls -la
+cd ptu202012900839
+ls -la
+ls -la
+net
+sudo pacman -S net-tools 
+sudo pacman -S net-tools 
+netstat -lntp
+kill -9
+kill -9 1095
+kill -9
+netstat -lntp
+poweroff
+poweroff
+ping www.baidu.com
+sudo systemctl restart dhcpcd.service 
+ping www.baidu.com
+ifconfig
+ip a
+ping www.baidu.com
+startx
+sudo startvmtools
+ startvmtools
+startx
+ping www.baidu.com
+ls -la
+ls -la
+cd .config
+ls -la
+cd zsh
+ls -la
+vim .alias
+exit
+cdgo
+ls -la
+cd src
+ls -lka
+cd study
+ls -la
+startvmtools
+startx
+startx
+cd .config
+ls -la
+cd zsh
+git push origin master
+cd plugins
+ls -la
+cd fzf-tab
+ls -la
+cd ../
+cd ../
+sudo pacman -Syyu
+yay -Syyu
+yay -Syyu
+ls -la
+cd zsh
+cd .config
+ls -la
+cd zsh
+ls -la
+git init
+git remote add origin https://codeup.aliyun.com/639bc301e322fb042ad4bcf8/zsh.git
+git add .
+git commit -m "new"
+git push origin master
+git remote remove origin
+git remote -v
+poweroff
+startsshd
+pkill spotify
+sudo pacman -Rns spotify
+rm -rf ~/.cache/spotify
+rm -rf ~/.config/spotify
+ls -la
+cd .config
+ls -la
+cd ../
+ls -la
+cdgo
+cd src
+cd study
+ls -la
+xprop
+xprop
+xprop
+xprop
+xprop
+xprop
+xprop
+cdgo
+ls -la
+cd src
+cd .config
+ls -la
+cd picom
+ls -la
+vim c
+vim picom.conf
+vim picom.conf
+vim picom.conf
+vim picom.conf
+startvmtools
+ls -la
+startx
+startx
+startx
+startx
+sudo pacman -Syyu
+sudo pacman -Syyu
+poweroff
+vim .xinitrc
+btop
+pacman -Syyu
+sudo pacman -Syyu
+picom
+cd .config
+cd picom
+vim picom.conf
+picom
+xprop
+cd .config
+cd picom
+vim picom.conf
+pacman -S smplayer
+sudo pacman -S smplayer
+vim .xinitrc
+startvmtools
+startx
+startx
+startx
+startx
+poweroff
+startx
+poweroff
+df -h
+startvmtools
+dtartx
+startx
+btop
+poweroff
+su root
+startvmtools
+startx
+poweroff
+df -h
+sudo pacman -Syyu
+ping www.baidu.com
+sudo pacman -Syyu
+sudo pacman -Syyu
+sudo pacman -Syyu
+pacman -Syyu
+sudo pacman -Syyu
+btop
+btop
+sudo rm /var/lib/pacman/db.lck\
+
+sudo pacman -Syyu
+ping www.baidu.com
+yay -s texlive-most
+yay -S texlive-most
+yay -S texlive-lang
+latex --version
+pacman -S texstudio
+sudo pacman -S texstudio
+startvmtools
+startx
+pacman -Sc
+sudo pacman -Sc
+yay -Sc
+pacman -Syyu
+sudo pacman -Syyu
+yay -Syyu
+poweroff
+startx
+poweroff
+fcitx5
+btop
+fcitx5&
+export https_proxy=http://127.0.0.1:7890/
+vim .xinitrc
+vim .xinitrc
+vim .xinitrc
+cd Downloads
+ls -la
+unzip xiaomi-main.zip
+ls -la
+rm xiaomi-main.zip
+where google-chrome-stable
+which google-chrome-stable
+cd /usr/bin
+ls -la
+/usr/bin/usr/bin/usr/bin/usr/bin/usr/bin/usr/bin/usr/bin/usr/bin/usr/bin/usr/bin/usr/bin/usr/bin
+which google-chrome-stable
+cd ~
+cd .vscode
+ls -la
+cd extensions
+ls -la
+cd techer.open-in-browser-2.0.0
+ls -la
+cd out
+ls -la
+vim config.js.map
+vim config.js
+vim config.js
+sudo pacman -S chromium
+cd .vscode
+cd extensions
+cd techer.open-in-browser-2.0.0
+ls -la
+cd out
+vim config.js
+vim .xinitrc
+startx
+vim .xinitrc
+vim .xinitrc
+startx
+startx
+startx
+vim .xinitrc
+startx
+startx
+startx
+sudo pacman -R chromium
+cd .config
+ls -la
+poweroff
+cd .vscode
+ls -la
+cd extensions
+ls -la
+ls -la
+cd techer.open-in-browser-2.0.0
+ls -la
+cd out
+vim extension.js
+vim config.js
+df
+df -h
+startx
+reboot
+sudo reboot
+cd /bin
+ls -la
+startx
+btop
+reboot
+su root
+btop
+btop
+cd .vscode
+cd extensions
+cd techer.open-in-browser-2.0.0
+cd ../
+rm -rf techer.open-in-browser-2.0.0
+cd ~
+ls -la
+cd .vscode
+ls -la
+cd ../
+ls -la
+poweroff
+startvmtools
+startx
+startvmtools
+startx
+cdgo
+cd src
+ls -la
+cd study
+vim array.go
+go run array.go
+vim array.go
+go run array.go
+vim array.go
+go run array.go
+vim array.go
+go run array.go
+vim array.go
+go run array.go
+vim array.go
+go run array.go
+vim array.go
+go run array.go
+vim array.go
+go run array.go
+vim array.go
+go run array.go
+poweroff
+cd .local
+ls -la
+cd dwm
+ls -la
+vim dwm.c.rej
+vim dwm.c.rej
+cd Downloads
+ls -la
+cd ÂÆÉæÈ™É¨1
+ls -la
+CD c
+cd ~/Code
+ls -la
+cd Java
+ls -la
+cd apache-maven-3.6.3
+ls -la
+cd ~/Downloads
+ls -la
+cd ÂÆÉæÈ™É¨1
+ls -la
+cd ~/Code/Java
+ls -la
+cd apache-maven-3.6.3
+ls -la
+cd conf
+ls -la
+cd ~
+cd .local
+ls -la
+cd dwm
+ls 
+ls -la
+git add . 
+git commit -m "new"
+wget https://dwm.suckless.org/patches/fakefullscreen/dwm-fakefullscreen-20210714-138b405.diff
+ls -la
+patch < dwm-fakefullscreen-20210714-138b405.diff
+vim dwm.c
+sudo make clean install
+poweroff
+startvmtools
+startx
+startx
+startvmtools
+startx
+poweroff
+startvmtools
+startx
+poweroff
+vim .xinitrc
+ls -la
+btop
+cd .local
+ls -la
+cd state
+ls -la
+cd nvim
+ls -la
+cd ../
+ls -la
+cd ../
+ls -a
+ls -la-
+ls -la
+cd Java
+ls -la
+cd ../
+ls -la
+vmtools
+startvmtools
+startx
+startx
+poweroff
+startx
+poweroff
+vim .xinitrc
+vim .xinitrc
+cd Downloads
+ls -la
+git clone  https://gitee.com/wu_wen_yi/library-system-admin.git
+LS -LA
+ls -la
+rm -rf library-system-admin
+cd Downloads
+ls -la
+git clone https://github.com/zhanghuanhao/LibrarySystem.git
+btop
+cd /usr
+cd lib
+ls -la
+ls -la jvm
+cd ~
+cd /usr/lib
+rm -rf jvm
+sudo rm -rf jvm
+sudo rm -rf jvm
+cd ~/Downloads
+ls -la
+rm -rf LibrarySystem
+git clone https://github.com/2567176308/booklibrary-go.git
+btop
+ls -la
+rm -rf booklibrary-go
+git clone https://github.com/yudc13/golang-web-book.git
+btop
+cd .config
+cd zsh
+ls -la
+vim .alias
+
+cd .config
+cd zsh
+ls -la
+vim .alias
+
+startdocker
+docker ps -a
+docker rm mysql
+docker rmi mysql
+btop
+btop
+yay -Q
+yay -R wps-office
+pacman -Syyu
+sudo pacman -Syyu
+btop
+btop
+cd .config
+ls -la
+cd QQ
+ls -la
+cd ../
+rm -rf QQ
+btop
+docker volume
+docker volumes
+docker run -itd --name mysql-test -p 3306:3306 -e MYSQL_ROOT_PASSWORD=123456 mysql
+docker ps -a
+docker ps 
+mysql -h localhost -u root -p 123456
+docker exec -it mysql
+docker exec -it mysql /bin/bash
+docker exec -it 5f2e361879de /bin/bash
+cd Downloads
+ls -la
+unzip ÂÉø∫‰∫ÉÆSSMÂÉªæ‰π¶ÁÆÉÅÁÉ∞É¶Á≥ªÁªÉø.zip
+ls -la
+rm -rf ÂÉø∫‰∫ÉÆSSMÂÉªæ‰π¶ÁÆÉÅÁÉ∞É¶Á≥ªÁªÉø.zip
+yay -h
+yay -S linuxqq
+pacman -S jdk11-openjdk
+sudo pacman -S jdk11-openjdk
+sudo pacman -R jdk11-openjdk
+starts
+startx
+startx
+startx
+poweroff
+btop
+btop
+yay -q navicate
+yay -S navicate
+pacman -S dbeaver
+sudo pacman -S dbeaver
+btop
+pacman -R dbeaver
+sudo pacman -R dbeaver
+btop
+cd ~
+du -h max-depth=1 | sort -hr
+sudo du -h max-depth=1 | sort -hr
+sudo du -h --max-depth=1 | sort -hr
+sudo du -h --max-depth=1 | sort -hr
+cd .cache
+sudo du -h --max-depth=1 | sort -hr
+pacman -R electron
+sudo pacman -R electron
+sudo pacman -R obsidian
+sudo pacman -R electron
+btop
+yay -R linuxqq
+sudo pacman -Rns $(pacman -Qtdq)
+btop
+sudo journalctl --vacuum-size=500m
+sudo journalctl --vacuum-size=500m
+sudo rm -rf /tmp/*
+sudo rm -rf /var/tmp*
+cd .local
+ls -la
+cd ../
+cd .config
+ls -la
+cd zsh
+ls -la
+vim .alias
+cd .git
+ls -la
+vim config
+cd ../
+ls -la
+rm -rf .git
+cd .config
+cd zsh
+vim .alias
+sudo du -h --max-depth=1 | sort -hrbtop
+btop
+du
+cd .local
+du
+cd share
+du
+du
+ls -la
+cd JetBrains
+du
+cd ./
+du
+cd T
+cd Toolbox
+du
+cd apps
+du
+rm -rf WebStorm
+ls -la
+cd ~
+du 
+cd .cache
+du 
+cd JetBrains
+du
+rm -rf WebStorm2022.3
+cd IntelliJIdea2022.3
+du
+cd ~
+du
+cd .jdks
+ls -la
+cd ../
+rm -rf .jdks
+ls -la
+du
+cd .config
+ls -la
+du
+sudo pacman -Rs discord
+sudo rm -rf ~/.config/discord
+sudo pacman -Rs mpv
+startsshd
+pacman -Rs avahi
+sudo pacman -Rs avahi
+cd ~
+du
+cd /
+du
+cd var
+du
+cd cache
+du
+cd pacman
+du
+cd ~
+du
+cd /
+du
+cd usr
+du
+cd sbin
+du
+cd ../
+cd share
+du
+cd texmf-dist
+du
+cd tex
+du
+cd ../
+du
+cd ~
+ls -la
+btop
+sudo pacman -Sc
+yay -Sc
+pacman -Syyu
+sudo pacman -Syyu
+l;ls -la
+pacman -S wmname
+sudo pacman -S wmname
+vim .xinitrc
+yay -S archlinuxcn/
+yay -Syyu
+btop
+sudo pacman -S downgrade
+sudo pacman -S downgrade
+downgrade glib2
+sudo downgrade glib2
+btop
+yay -S archlinuxcn/
+sudo yay -S Linuxqq
+yay -S linuxqq
+btop
+btop
+sudo downgrade glib2
+sudo downgrade glib2
+sudo downgrade glib2=2.74.6
+sudo downgrade -a glib2=2.74.6
+sudo downgrade -a glib2=2.74.6
+sudo downgrade  glib2=2.74.6
+sudo downgrade  glib2
+reboot
+startvmtools
+startx
+startx
+btop
+yay -Rs linuxqq
+btop
+vim .xinitrc
+startvotools
+startvmtools
+vim .xinitrc
+ls -la
+man nitrogen
+cd .config
+cd nitrogen
+ls -la
+vim nitrogen.cfg
+vim bg-saved.cfg
+btop
+poweroff
+startx
+startx
+startx
+startx
+startx
+startx
+startx
+startx
+startx
+startx
+ls -la
+ssh-keygen -t rsa
+ls -la
+cd .ssh
+ls -la
+cat id_rsa.pub
+ls -la
+cd ~
+cd .local
+ls -la
+cd dwm
+ls -la
+git remote -v
+git remote remove origin
+git remote -v
+git add .
+git commit -m "first commit"
+git branch
+git branch -M main
+git branch
+git remote add origin https://github.com/haiword135/dwm.git
+git remote -v
+git remote remove origin
+git remote add origin git@github.com:haiword135/dwm.git
+git remote -v
+git push -u origin main
+git push  origin main
+git push -f -u origin main
+git push -f  origin main
+rm -f  .git
+rm -rf  .git
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote -v
+git remote add origin git@github.com:haiword135/dwm.git
+git push -u origin main
+ls -la
+mv dwm-fakefullscreen-20210714-138b405.diff patches
+git add .
+git commit -m "new"
+git push origin
+ls -la
+cd ~/.config
+ls -la
+rm Typora
+rm -rf Typora
+rm -rf QQ
+cd zsh
+ls -la
+cd plugins
+ls -la
+cd fzf-tab
+ls -la
+git remote -cv
+git remote -v
+git pull origin master
+cd ../
+cd ../
+ls -la
+git init
+git add .
+rm -rf .git
+btop
+cd ~/
+ls -la
+cd .local
+ls -la
+cd state
+ls -la
+cd nvim
+ls -la
+cd ~
+cd .local
+cd dwm
+ls -la
+cd ~
+vim .xinitrc
+vim .xinitrc
+vim .xinitrc
+startsshd
+ls -la
+ifconfig
+ping baidu.com
+startx
+startx
+startx
+startx
+startx
+poweroff
+yay -S linuxqq
+yay -S linuxqq
+yay -S linuxqq
+ping baidu.com
+btop
+top
+btop
+ping baidu.com
+yay -S linuxqq
+yay -
+yay 
+yay -S  linuxqq
+yay -Syyu
+cd /etc
+cd pacman.d
+cd ../
+vim pacman.conf
+sudo vim pacman.conf
+sudo pacman -Syyu
+downgrade glib2
+sudo downgrade glib2
+vim /etc/systemd/system/getty.target.wants/getty@tty1.service
+sudo vim /etc/systemd/system/getty.target.wants/getty@tty1.service
+sudo vim /etc/systemd/system/getty.target.wants/getty@tty1.service
+vim sudoers
+vim sudoers.d
+ls -la
+sudo vim sudoers.d
+sudo vim sudoers
+pacman
+pacman -Syyu
+pacman -Syyu
+sudo pacman -Syyu
+sudo visudo
+cd /etc
+sudo vim sudoers 
+yay -S polkit
+notify-send hello
+pacman -S libnotify
+sudo pacman -S libnotify
+notify-send hello
+notify-send sdsf
+startx
+cd /etc/systemd/system
+ls -la
+cd getty.target.wants
+sudo vim getty@tty1.service 
+cp getty@tty1.service getty@tty1.service.cp
+sudo cp getty@tty1.service getty@tty1.service.cp
+sudo vim getty@tty1.service 
+reboot
+ls -la
+btop
+pacman -Qi libnotify notification-daemon
+pacman -S notification-daemon
+sudo pacman -S notification-daemon
+systemctl status dbus
+sudo systemctl restart notification-daemon
+sudo systemctl start notification-daemon
+sudo pacman -S notification-daemon
+startvmtools
+startx
+notify-send sdsf
+reboot
+startvmtools
+startx
+startsshd
+ifconfig
+notify-send sdf
+cd /usr
+cd lib
+ls -la
+cd ../
+ls -la
+cd share
+cd dbus-1
+ls -la
+cd services
+ls -la
+cd $XDG_DATA_HOME/dbus-1/services
+cd $XDG_DATA_HOME
+ls -la
+cd /usr/share/dbus-1/services
+ls -la
+ls -la
+vim org.a11y.Bus.service
+sudo vim org.freedesktop.Notifications.service
+cd /usr/lib/notification-daemon-1.0/
+ls -la
+cd ../
+reboot
+reboot
+sudo reboot
+startvmtools
+startx
+notify-send sss
+ls -la
+poweroff
+ping www.baidu.com
+dhcpcd
+sudo dhcpcd
+ping www.baidu.com
+sudo systemctl restart dhcpcd
+ping www.baidu.com
+ifconfig
+nmtui
+ping www.baidu.com
+reboot
+ping www.baidu.com
+ping www.baidu.com
+reboot
+ping www.baidu.com
+poweroff
+notify-send kk
+notify-send kk
+notify-send kk
+cd /usr/share/dbus-1/services
+ls -la
+vim org.freedesktop.Notifications.service
+rm org.freedesktop.Notifications.service
+sudo rm org.freedesktop.Notifications.service
+pacman -Rs notification-daemon
+sudo pacman -Rs notification-daemon
+pacman -S dunst
+sudo pacman -S dunst
+ls -la
+notify-send kkk
+dunst hello
+ping www.baidu.com
+startvmtools
+startx
+reboot
+ping www.baidu.com
+ping www.baidu.com
+poweroff
+notify-send ss
+btop
+btop
+btop
+sudo downgrade glib2 
+btop
+btop
+btop
+cd .config
+ls -la
+rm -rf QQ
+pacman -Sy libvips
+sudo pacman -Sy libvips
+cd /opt
+ls -la
+cd QQ
+ls -la
+cd resources
+ls -la
+cd app
+cd sharp-lib
+ls -la
+rm libvips-cpp.so.42
+sudo rm libvips-cpp.so.42
+cd ~
+btop
+btop
+btop
+btop
+btop
+cd .config
+cd picom
+vim	picom.conf
+vim	picom.conf
+ls -la
+cd .config
+ls -la
+cd picom
+vim picom.conf
+startx
+startx
+startx
+startx
+startx
+su root
+jak
+pacman -S dbeaver
+sudo pacman -S dbeaver
+ping www.baidu.com
+btop
+cd Downloads
+ls -la
+cd ../
+cd .local
+ls -la
+wget https://download.oracle.com/java/17/latest/jdk-17_linux-x64_bin.tar.gz
+wget https://download.oracle.com/java/17/latest/jdk-17_linux-x64_bin.tar.gz
+ls -la
+rm jdk-17_linux-x64_bin.tar.gz
+rm jdk-17_linux-x64_bin.tar.gz.1
+ls -la
+ls -la
+ls -la
+tar -xzvf jdk-17_linux-x64_bin.tar.gz
+ls -la
+cd jdk-17.0.6
+ls -la
+cd ../
+cd Java
+LS -LA
+ls -la
+cd jdk1.8
+ls -la
+vf ../
+cd ../
+ls -la
+cd ../
+cd jdk-17.0.6
+ls -la
+cd ../
+ls -la
+mv jdk-17.0.6 jdk-17
+mv jdk-17 Java
+ls -la
+mv jdk-17_linux-x64_bin.tar.gz Java
+ls -la
+cd Java
+ls -la
+mv jdk-17 jdk17
+cd jdk17
+ls -la
+vim .xinitrc
+java --version
+systemctl start docker
+sudo systemctl start docker
+docker ps -a
+docker ps -a
+docker start mysql-test
+docker ps -a
+btop
+pacman -Ql dbeaver
+sudo pacman -Rns dbeaver
+pacman -Ql dbeaver
+rm -rf ~/.local/share/DBeaverData
+btop
+pacman -Sc
+pacman -Sc[A
+sudo pacman -Sc
+btop
+cd /etc
+ls -la
+bbtop
+btop
+startvmtools
+startx
+startx
+poweroff
+poweroff
+startvmtools
+vmtools
+startvmtools
+startx
+startx
+startx\
+
+sudo startxas\
+
+startx
+startvmtools
+startx
+btop
+yay -Rns linuxqq
+rm -rf .config/QQ
+cd /opt
+lks -la
+ls -la
+cd ~
+du
+sudo du
+cd .config
+cd zsh
+ls -la
+vim .alias
+cd ~
+du
+cd /
+du
+cd /var
+du
+cd cache
+du
+cd pacman
+du
+sudo pacman -Scc
+btop
+sudo pacman -Rns $(pacman -Qtdq)
+cd ~
+cd .local
+cd st
+make clean 
+sudo make clean install
+journalctl --vacuum-size=50m
+sudo journalctl --vacuum-size=50m
+cd ~
+cd /etc
+vim pacman.conf
+sudo vim pacman.conf
+sudo pacman -Syyu
+poweroff
+ping www.baidu.com
+pacman -Syyu
+sudo pacman -Syyu
+btop
+poweroff
+cdgo
+cd src
+cd study
+ls -la
+vim anonymity.go
+cd Downloads
+ls -la
+rm -rf xiaomi-main
+LS -LA
+ls -la
+rm -rf apache-maven-3.6.3-b.zip
+rm -rf golang-web-book
+ls -la
+rm -rf library
+rm -rf library.sql
+ls -la
+startvmtools
+startx
+startx
+startx
+startx
+poweroff
+vim .xinitrc
+startx
+startx
+vim .xinitrc
+ping baidu.com
+dhcpcd
+sudo dhcpcd
+nmtui
+startx
+poweroff
+btop
+ls -la
+vim .xinitrc
+\:q
+ls -la
+btop
+startx
+poweroff
+vim .xinitrc
+startx
+poweroff
+sudo pacman -Syyu
+sudo pacman -S thunar 
+cd .lco
+cd .local
+cd Java
+ls -la
+cd ~
+btop
+btop
+btop
+sudo pacman -S dunst
+btop
+pacman -S wps
+yay -S wps-office-cn 
+yay -S wps-office-mui-zh-cn
+yay -S ttf-wps-fonts
+yay -S ttf-wps-fonts
+btop
+du
+cd .local
+du
+cd share
+du
+cd ~
+du
+cd .cache
+du
+cd /
+du
+cd /usr
+du
+cd share
+du
+btop
+startx
+vim .xinitrc
+startx
+poweroff
+cd Books
+ls -la
+mv LeetCode\ 101\ -\ A\ LeetCode\ Grinding\ Guide\ \(C++\ Version\).pdf LeetCode101.pdf
+ls -la
+pwd
+cd .local
+wget https://storage.flutter-io.cn/flutter_infra_release/releases/stable/linux/flutter_linux_3.7.7-stable.tar.xz
+ls -la
+rm flutter_linux_3.7.7-stable.tar.xz
+cd ~
+ls -la
+vim ,xi
+vim .xinitrc
+startx
+btop
+poweroff
+xprop
+btop
+ls -la
+ls -la
+cd .local
+wget [200~https://storage.flutter-io.cn/flutter_infra_release/releases/stable/linux/flutter_linux_3.7.7-stable.tar.xz~
+wget https://storage.flutter-io.cn/flutter_infra_release/releases/stable/linux/flutter_linux_3.7.7-stable.tar.xz
+rm -rf flutter_linux_3.7.7-stable.tar.xz
+kls -la
+cd ~
+cd ~
+cd ls -la
+cd Code
+ls -la
+cd Web
+ls -la
+wget https://unpkg.com/vue@3
+btop
+cd .local
+ls -la
+cd dwm
+ls -la
+cd patches
+ls -la
+cd ~
+cd Code
+cd Web
+cd .local
+cd dwm
+vim config.h
+vim config.h
+vim config.def.h
+startx
+cd .local
+cd dwm
+ls -la
+vim config.h
+poweroff
+yay -Syyu
+ping www.baidu.com
+pacman -S 7zip
+pacman -S p7zip
+pacman -S 7zip
+pacman -S p7zip
+pacman -S p7zip[A
+sudo pacman -S p7zip
+7z
+startsshd
+ifconfig
+cd Code
+cd Web
+ls -la
+unzip Resource.zip
+ls -la
+rm '01 - Introduction
+rm  -rf 01 - Introduction
+ls -la
+rm -rf 0* 1* 2*
+cd ../
+cd Web
+ls -la
+7z 
+mkdir Vue
+mv Resource.zip Vue
+ls -la
+cd Vue
+7z x Resource.zip
+ls -la
+ls -la
+startx
+startvmtools
+statx
+startx
+startx
+poweroff
+btop
+startsshd
+btop
+ping www.baidu.com
+yay -S linuxqq
+vim .xinitrc
+ls -la
+startvmtools
+startx
+startx
+clash
+reboot
+startx
+btop
+yay -S linuxqq
+yay -S linuxqq
+yay -S linuxqq
+poweroff
+cd .local
+cd dwm
+ls -la
+vim dwm.c
+sudo make clean install
+rm config.h
+sudo make clean install
+ls -la
+cd .config
+ls -la
+cd ../
+ls -la
+cd .local
+ls -la
+mkdir scripts
+cd scripts
+ls -la
+cd .local
+ls -la
+cd dwm
+ls -la
+cd patches
+ls -la
+cd ../
+ls -la
+git remote -v
+wget https://dwm.suckless.org/patches/statuscmd/dwm-statuscmd-status2d-20210405-60bb3df.diff
+patch < dwm-statuscmd-status2d-20210405-60bb3df.diff
+ls -la
+ls -la
+cd ../
+cd dwmblocks-async
+sudo make clean install
+dwmblocks
+sudo make clean install
+dwmblocks
+sudo make clean install
+dwmblocks
+sudo pacman -S display
+sudo make clean install
+dwmblocks
+git log
+git logs
+git -h
+cd .local
+ls -la
+cd dwm
+sudo make clean install
+git loog
+git log
+git add .
+git commit -m "patch statuscmd"
+git push origin main
+cd ../
+git clone https://github.com/UtkarshVerma/dwmblocks-async.git
+ls -la
+cd dwmblocks-async
+sudo make clean install 
+dwmblock
+dwmblocks
+pamixer
+sudo pacman -S pamixer
+vim config.h
+notify-send hello
+sudo make uninstall
+cd ./
+cd ../
+rm -rf dwmblocks-async
+rm -rf scripts
+git clone [200~https://github.com/UtkarshVerma/dwmblocks-async.git~
+git clone https://github.com/UtkarshVerma/dwmblocks-async.git
+cd dwmblocks-async
+vim config.h
+cd ../
+ls -la
+rm -rf dwmblocks-async
+cd dwm
+ls -la
+git -h
+git log
+git reset ff9
+git reset HEAD^
+git logs
+git log
+ls -la
+cd patches
+ls -la
+cd ../
+git status
+git restore .
+cd patches
+rm dwm-statuscmd-status2d-20210405-60bb3df.diff
+cd ../
+git staus
+git status
+git push origin main
+git push origin main --force
+make clean install
+sudo make clean install
+startvmtools
+startx
+poweroff
+ls -la
+btop
+rm -rf .m2
+ls -la
+cd .java
+ls -la
+cd ../
+rm -rf  .java
+ls -la
+rm -rf .eclipse
+ls -la
+rm -rf .android
+ls -la
+cd Code
+ls -la
+rm -rf Java
+ls -la
+btop
+ls -la
+cd ~
+ls -la
+fcitx5
+kill fcitx5
+btop
+vim .xinitrc
+startx
+startx
+vim .xinitrc
+startx
+poweroff
+btop
+cd .l
+cd .config
+cd zsh
+ls -la
+vim .zshrc
+cd ~
+vim .xinitrc
+ls -la
+cd .local
+ls -la
+wget https://storage.flutter-io.cn/flutter_infra_release/releases/stable/linux/flutter_linux_3.7.8-stable.tar.xz
+tar -xzvf flutter_linux_3.7.8-stable.tar.xz
+tar -xvf flutter_linux_3.7.8-stable.tar.xz
+btop
+ls -la
+cd flutter
+cd bin
+pwd
+cd ../
+cd ../
+cd flutter
+cd ../
+export PATH="$PATH:`pwd`/flutter/bin"\
+
+flutter precache
+flutter doctor
+cd ~
+vim .xinitrc
+ls -la
+vim .xinitrc
+echo $HOME
+btop
+btop
+btop
+pacman -S lib32-mesa-git
+sudo pacman -S lib32-mesa-git
+yay -S lib32-mesa
+btop
+flutter
+flutter doctor
+flutter doctor -v
+flutter doctor -v
+ls -la
+vim .xinitrc
+cd .local
+ls -la
+rm -rf fl*
+ls -la
+btop
+cd ../
+ls -la
+ls -la
+rm -rf And*
+ls -la
+rm -rf .android
+ls -la
+rm -rf .java
+ls -la
+ll
+cd Downloads
+ls -la
+cd ../
+cd .local
+ls -kla
+cd ~
+vim .xinitrc
+cd Code
+ls -la
+rm -rf Android
+btop
+poweroff
+startvmtools
+startx
+startx
+startx
+startvmtools
+pacman -S
+sudo pacman -Syyu
+btop
+yay -S flutter
+sudo usermod -G flutterusers -a {$USER}
+sudo usermod -G flutterusers -a $USER
+flutter 
+flutter doctor
+sudo flutter doctor
+sudo usermod -G flutterusers -a $USER
+startx
+startx
+startx
+flutter doctor
+reboot
+flutter
+flutter doctor
+sudo flutter doctor
+yay -Rns flutter
+sudo yay -Rns flutter
+cd /opt
+ls -la
+cd flutter
+ls -la
+cd ..
+rm -rf flutter
+sudo rm -rf flutter
+ls -la
+btop
+startvmtools
+startx
+ping www.baidu.com
+poweroff
+ping www.baidu.com
+systemctl restart network-online.target
+sudo systemctl restart network-online.target
+ping www.baidu.com
+sudo systemctl restart dhcpcd
+ping www.baidu.com
+reboot
+startvmtools
+startx
+vim .xinitrc
+cd .local
+ls -la
+wget https://storage.flutter-io.cn/flutter_infra_release/releases/stable/linux/flutter_linux_3.7.8-stable.tar.xz
+tar xf flutter_linux_3.7.8-stable.tar.xz
+tar xf flutter_linux_3.7.8-stable.tar.xz
+tar -xvf flutter_linux_3.7.8-stable.tar.xz
+ls -la
+rm flutter_linux_3.7.8-stable.tar.xz
+pwd
+vim ~/.xinitrc
+cd .config
+ls -la
+cd Google/\\
+ls -la
+cd Google
+ls -la
+cd ../
+rm -rf Google
+flutter doctor
+pacman -S clang 
+sudo pacman -S clang 
+sudo pacman -S cmake
+sudo pacman -S ninja
+flutter doctor
+sudo ln -s /usr/bin/google-chrome-stable /usr/bin/google-chrome
+flutter doctor
+yay -S android-studio
+yay -Rns android-studio
+yay -S android-studio-beta
+btop
+poweroff
+vmtools
+startx
+startx
+startx
+btop
+ping www.baidu.com
+btop
+ls -la
+cd Android
+ls -la
+cd Sdk
+ls -la
+cd ../
+rm -rf Sdk
+ping www.baidu.com
+cd Android
+ping www.baidu.com
+cd ../
+rm -rf Android
+rm -rf .android
+ls -la
+ls -la
+ls -la
+rm -rf .android
+cd .lco
+cd .config/
+ls -la
+rm -rf Google
+ping www.baidu.com
+btop
+btop
+startx
+startx
+startx
+poweroff
+btop
+btop
+du
+rm -rf Android
+cd .local
+rm -rf flutter
+ls -la
+cd ../
+vim .xinitrc
+du
+cd .cache
+du
+cd JetBrains
+ls -la
+du
+rm -rf IntelliJIdea2022.3
+cd ~
+du
+btop
+du
+cd .config
+du
+rm -rf Google
+ls -la
+rm -rf flutter
+rm -rf obsidian
+cd ../
+du
+cd .local
+du
+cd ./share
+du
+cd JetBrains
+du
+cd Toolbox
+du
+cd apps
+du
+cd /
+du
+btop
+cd .va
+cd var
+du
+cd cache
+du
+cd ~
+du
+ls -la
+yay -Rns jetbrains-toolbox
+btop
+code
+STARTX
+startx
+npm install vue@latest
+npm uninstall vue@latest
+poweroff
+7z 009\ webpack-example--\[koudaizy.com\].zip
+7z x 009\ webpack-example--\[koudaizy.com\].zip
+7z x 009\ webpack-example--\[koudaizy.com\].zip ./wevpack
+7z x 009\ webpack-example--\[koudaizy.com\].zip webpack
+npm install vue@latest
+ls -la
+npm install
+npm run start
+npm install vue@latest
+npm init vue@latest
+cd vue-project
+npm install
+npm run dev
+cd Code
+ls -la
+cd Web
+ls -la
+cd Vue
+cd 05\ -\ Vue\ Developer\ Environment
+ls -la
+7z x 009\ webpack-example--\[koudaizy.com\].zip -r -o/home/H/Code/Web/Vue/05 - Vue Developer Environment/Webpack
+7z x 009\ webpack-example--\[koudaizy.com\].zip -r -o/home/H/Code/Web/Vue/05 - Vue Developer Environment/Webpack
+7z x 009\ webpack-example--\[koudaizy.com\].zip -r -o/home/H/Code/Web/Webpack
+npm config get registry
+npm config set registry https://registry.npm.taobao.org/
+npm config get registry
+npm config get registry
+cd ../
+cd 06\ -\ Advanced\ Vue\ Components
+ls -la
+ping www.baidu.com
+ping www.baidu.com
+ping www.baidu.com
+code
+code
+npm run dev
+npm run dev
+startx
+startx
+npm install sass --save--dev
+npm run dev
+poweroff
+npm install sass --save-dev
+npm install sass --save-dev
+npm run dev
+code
+yay -S koodo
+yay -S koodo-reader-bin
+startx
+poweroff
+pacman -Syyu
+sudo pacman -Syyu
+du
+btop
+sudo pacman -Rns
+sudo pacman -Qqdt
+cd ~
+du
+pacman 
+sudo pacman 
+sudo pacman -h
+sudo pacman -heip
+sudo pacman -help
+ pacman -help
+ pacman -Scc
+ sudo pacman -Scc
+du
+btop
+yay -Scc
+btop
+cd ~
+cd /
+du
+ls -la
+cd ~
+ls -la
+ls -la
+pacman -Syyu
+sudo pacman -Syyu
+btop
+ls -la
+cd .local
+ls -la
+cd dwm
+ls -la
+cd Code
+ls -la
+git clone -b 2022 git@github.com:NJU-ProjectN/ics-pa.git ics2022
+git branch
+cd ics2022
+ls -la
+git branch
+git branch-m master
+git branch -m master
+git branch-m master
+git branch
+ls -la
+vim init.sh
+zsh init.sh
+zsh init.sh nemu
+ls -la
+bash init.sh abstract-machine
+zsh init.sh abstract-machine
+ls -la
+rm -rf abstract-machine
+rm -rf fceux-am
+zsh init.sh abstract-machine
+ls -la
+cd abstract-machine
+ls -la
+cd ~
+cd Code
+ls -la
+ls -la
+cd ..
+vim .bashrc
+cd .config
+cd zsh
+vim .zshrc
+cd /
+cd ~
+vim .xinitrc
+echo $NEMU_HOME
+ls -la
+cd Code
+ls -la
+cd ics2022
+ls -la
+cd nemu
+ls -la
+cd ../
+ls -la
+vim init.sh
+pwd
+cd nemu
+pwd
+cd ../
+ls -la
+ls -la
+bash init.sh abstract-machine
+ls -la
+rm -rf abstract-machine
+rm -rf fceux-am
+cd nemu
+ls -la
+cd ../
+ls -la
+bash init.sh abstract-machine
+ls -la
+rm -rf abstract-machine
+zsh init.sh abstract-machine
+rm -rf abstract-machine
+ls -la
+bash init.sh abstract-machine
+ls -la
+xcd fceux-am
+cd fceux-am
+ls -la
+pwd
+cd ../
+ls -la
+echo $NEMU_HOME
+cd Code
+cd ics2022
+ls -la
+vim init.sh
+ls -la
+bash init.sh abstract-machine
+ls -la
+git add .
+cd nemu
+ls -la
+cd ../
+ls -la
+cd ..
+cd ics2022
+ls -la
+vim .xinitrc
+cd Code
+ls -la
+cd ics2022
+ls -la
+git add .
+ls -la
+git commit -m "new"
+cd nemu
+ls -la
+make menuconfig
+ls -la
+cd ../
+git status
+cd nemu
+make menuconfig
+make menuconfig
+make clean
+make run
+pacman -S llvm
+sudo pacman -S llvm
+make run
+sudo pacman -Rs llvm
+sudo pacman -S llvm11
+make clean 
+make run
+ls -lc
+cd Code
+cd ics2022
+cd nemu
+ls -la
+vim scripts
+cd scripts
+ls -la
+vim config.mk
+make run
+cd ../
+make run
+make gbd
+make gdb
+sudo pacman -S gbd
+sudo pacman -S gcc
+make run
+cd Code
+ls -la
+cd ics2022
+ls -la
+cdn
+cd nemu
+ls -la
+vim Makefile
+make clean 
+make run
+make fdb
+git log
+poweroff
+startvmtools
+startx
+startx
+startx
+startx
+ls -la
+ping www.baidu.com
+sudo pacman -S awesome 
+vim .xinitrc
+chrome
+google-chrome
+cd .config
+ls -la
+vim ~/.config/dunst/dunstrc
+notify-send hello
+vim ~/.config/dunst/dunstrc
+mkdir ~/.config/dunst/
+vim ~/.config/dunst/dunstrc
+notify-send hello
+dunst
+dunst -h
+dunst -v
+dunst -conf ~/.config/dunst/dunstrc
+startx
+startx
+startvmtools
+startx
+awesome -v
+cd .config
+ls -la
+awesome
+awesome -h
+awesome -c
+awesome -k
+ls -la
+cd ../
+ls -la
+cd /etc
+ls -la
+cd xdg
+ls -la
+cd awesome
+ls -la
+cd ../
+cp awesome/  ~/.config
+sudo cp awesome/  ~/.config
+ cp -r awesome/  ~/.config
+cd ~/.config
+ls -la
+cd awesome
+ls -la
+vim rc.lua
+cd ../
+cd ~
+startx
+startx
+google-chrome
+reboot
+vim .xinitrc
+yay -S linuxqq
+
+code
+startvmtools
+startx
+startx
+linuxqq
+poweroff
+notify-send hello
+notify-send hello
+poweroff
+startvmtools
+vim .xinitrc
+startx
+vim .xinitrc
+startx
+vim .xinitrc
+vim .xinitrc
+startx
+dunst hello
+cd ~/.config
+cd dunst
+ls -la
+vim dunstrc
+rm dunstrc
+rm dunstrcbtop
+btop
+notify-send hello
+notify-send hello
+notify-send hello
+notify-send hello
+notify-send hello
+notify-send hello
+notify-send hello
+notify-send hello
+notify-send hello
+notify-send hello
+notify-send hello
+cd ~
+vim .xinitrc
+startvmtools
+notify-send hello
+startx
+startx
+startx
+cd .config
+ls -la
+cd dunst
+ls -la
+poweroff
+notify-send hello
+ls -la
+cd .config
+cd awesome
+ls -la
+rm rc.lua
+ls -la
+cp /etc/xdg/awesome/rc.lua ./
+ls -la
+git init
+ls -la
+git branch
+git branch -v
+git branchs
+git branch
+ls -la
+git add .
+git commit -m "first"
+ls -la
+vim .git
+git branch
+cd ../
+ls -la
+cd .config
+ls -la
+startx
+vim .xinitrc
+startx
+cd /etc
+poweroff
+cd .local
+cd dwm
+ls -la
+vim config.h
+vim .xinitrc
+go env
+ls -la
+cd Downloads
+ls -la
+ls -la
+ls -la
+rm 23333.doc
+ls -la
+ls -la
+cd Downloads
+ls -la
+cd .config
+ls -la
+cd awesome
+git clone https://github.com/streetturtle/awesome-wm-widgets.git
+cd /usr
+ls -la
+cd share
+ls -la
+ls -la
+cd awesome
+ls -la
+cd themes
+ls -la
+cd ../
+ls -la
+cd lib
+ls -la
+cd menubar
+ls -la
+vim menu_gen.lua
+cd ../
+cd ../
+cd themes
+ls -la
+startx
+startx
+cd src
+cd study
+ls -la
+go run array.go
+btop
+go env
+notify-send hello
+notify-send hello
+notify-send hello
+notify-send hello
+notify-send hello
+notify-send hello
+notify-send hello
+notify-send hello
+notify-send hello
+notify-send hello
+notify-send hello
+notify-send hello
+notify-send hello
+notify-send hello
+notify-send hello
+notify-send hello
+notify-send hello
+notify-send hello
+notify-send hello
+poweroff
+cd Books
+ls -la
+ls -la
+cd /usr
+cd share
+cd awesome
+ls -la
+cd lib
+ls -la
+cd beautiful
+ls -la
+vim theme_assets.lua
+cd ../
+cd ~
+ls -la
+code
+startx
+go run  shttp.go
+go run  shttp.go
+go run  shttp.go
+go run  shttp.go
+poweroff
+notify-send heool
+vim .config
+cd .config
+ls -la
+cd dunst
+vim dunstrc
+notify-send heool
+vim .xinitrc
+startx
+;vmtools
+startvmtools
+startx
+reboot
+cd ../
+cd ../
+cd dwm
+sudo make clean install
+poweroff
+startvmtools
+startx
+startx
+vim .xinitrc
+notify-send heool
+sudo pacman -sc
+sudo pacman -Sc
+sudo pacman -Ru
+sudo pacman -Rn
+sudo pacman -Ru
+sudo pacman -h
+ls -la
+ls -la
+du
+btop
+ls -la
+vim .xinitrc
+\:q
+ls -la
+cd ~/.config/dunst
+vim dunstrc
+kill dunst
+btop
+kill 660
+dunst&
+notify-send hell
+vim dunstrc
+notify-send hell
+kill 1045
+dunst&
+notify-send hell
+vim dunstrc
+notify-send hell
+ls -la
+notify-send hello
+btop
+du
+cd .config
+du
+cd ../
+du
+cd ../
+du
+cd /
+du
+du
+cd .local
+ls -la
+cd dwm
+ls -la
+cd patches
+ls -la
+cd ../
+vim config.h
+sudo make clean install
+startvmtools
+startx
+startx
+startx
+startx
+cd .local
+ls -la
+cd dwm
+ls -la
+vim config.def.h
+vim config.h
+cd patches
+ls -la
+p[oweroff
+poweroff
+notify-send hello
+sudo pacman -Syyu
+ls -la
+pacman -S pulseaudio
+sudo pacman -S pulseaudio
+pulseaudio
+pulseaudio&
+sudo pacman -S pulseaudio-alsa
+sudo pacman -Rn pulseaudio
+sudo pacman -S pasystray
+pasystray
+pasystray
+pasystray
+pacman -S network-manager-applet
+sudo pacman -S network-manager-applet
+networkctl
+net
+networkctl
+startvmtools
+startx
+reboot
+nm-applet
+vim .xinitrc
+startvmtools
+startx
+startx
+poweroff
+ls -la
+yay -S fzf
+pacman -S zsh-completions
+yay -S zsh-completions
+ls -al
+cd .config
+cd zsh
+ls -la
+vim .zshrc
+code
+startx
+exit
+ls -la
+yay -Rns zsh-completions
+sudo pacman -S zsh-syntax-highlighting 
+cd .config
+cd zsh
+vim .zshrc
+ls -la
+ls -la
+ls -la
+ls -la
+mkdir Code
+cd Code
+ls -la
+git clone -depth https://github.com/haiword135/dwm
+git clone -depth=1 https://github.com/haiword135/dwm
+git clone --depth=1 https://github.com/haiword135/dwm
+ls -la
+cd ~
+cd .local
+ls -la
+cd dwm
+make clean 
+sudo make clean uninstall
+ls -la
+google
+google-chrome-stable
+google-chrome-stable
+ls -la
+code
+cd ~
+ls -la
+vim .xinitrc
+notify-send hello
+notify-send hello
+pacman -S libnotify
+sudo pacman -S libnotify
+cd ~
+vim .xinitrc
+notify-send hello
+ls -la
+pacman -S obs-studio
+sudo pacman -S obs-studio
+yay -S flameshot
+cd ~
+vim .xinitrc
+ls -la
+yay -S linuxqq
+linuxqq&
+code
+code
+ls -la
+ls -la
+cd .config
+ls -la
+cd ../
+ls -la
+mkdir Video
+btop
+neofetch
+ls -la
+obs
+ls -la
+obs
+ls -la
+code
+ls -la
+obs
+pacman -S lxappearance
+sudo pacman -S lxappearance
+nvidia-smi
+nvidia-smi
+code
+cdde
+code
+lxappearance
+cd .cache
+cd yay
+ls -la
+cd chromeos-gtk-theme-git
+ls -la
+cd src
+ls -la
+cd ~
+lxappearance
+code
+yay -S chromeos-gtk-theme-git 
+yay -Rns chromeos-gtk-theme-git 
+yay -Rn chromeos-gtk-theme-git 
+yay -Rc chromeos-gtk-theme-git 
+ls- la
+ls -la
+cd g
+yay -S mojave-gtk-theme
+yay -S mojave-gtk-theme
+neofetch
+lxappearance
+chrome
+google-chrome-stable
+startx
+startx
+ls -la
+cd Code
+ls -la
+cd dwm
+sudo make clean instal 
+sudo make clean install
+startx
+startx
+startx
+cd ~
+startx
+ls -la
+ip a
+nmcli dev wifi list
+nmcli dev wifi scan
+nmcli dev wifi list
+cd .config
+ls -la
+poweroff
+ping www.baidu.com
+cat /sys/module/pcie_aspm/parameters/policy
+cat /sys/module/pcie_aspm/parameters/policy
+sudo pacman -S ntp
+sudo ntpdate ntp.aliyun.com
+date
+sudo hwclock -w
+linuxqq
+cd Downloads
+ls -la
+yay wget 
+yay -S wget 
+wget https://go.dev/dl/go1.20.3.linux-amd64.tar.gz
+ls -la
+sudo  rm -rf /usr/local/go && tar -C /usr/local -xzf go1.20.3.linux-amd64.tar.gz
+sudo  rm -rf /usr/local/go && sudo tar -C /usr/local -xzf go1.20.3.linux-amd64.tar.gz
+ls -la
+go version
+rm go1.20.3.linux-amd64.tar.gz
+cd ../
+cd Code
+mkdir Go
+ls -la
+code
+dmesg
+dmesg
+sudo dmesg | grep r8169
+sudo dmesg | grep Bluetooth
+sudo dmesg | grep r8169
+ls -la
+clear
+cd .config/zsh
+cat .zshrc
+vim .zshrc
+vim .alias
+cdgo
+ifconfig
+sudo pacman -S bluez bluez-utils 
+
+dmesg
+dmesg
+sudo dmesg | grep r8169
+sudo dmesg | grep Bluetooth
+sudo dmesg | grep r8169
+ls -la
+clear
+cd .config/zsh
+cat .zshrc
+vim .zshrc
+vim .alias
+cdgo
+ifconfig
+sudo pacman -S bluez bluez-utils 
+
+startx
+bluetoothctl
+bluetoothctl help
+bluetoothctl help
+man bluetoothd
+sudo dmesg | grep btusb
+systemctl start bluetooth.service
+sudo systemctl start bluetooth.service
+bluetoothctl
+reboot
+nmcli dev wifi list
+nmcli device wifi connect unknown password 1234679..
+nmcli connection show
+google-chrome-stable
+google-chrome-stable
+sudo pacman -S noto-fonts noto-fonts-cjk noto-fonts-emoji noto-fonts-extra
+pacman -S fcitx5-im
+sudo pacman -S fcitx5-im
+sudo pacman -S fcitx5-material-color 1
+sudo pacman -S fcitx5-material-color 
+vim .xinitrc
+btop
+xrandr -display
+xrandr -help
+xrandr list
+xrandr -d
+xrandr -d list
+pacman -S fcitx5-rime
+sudo pacman -S fcitx5-rime
+
+sudo pacman -S noto-fonts noto-fonts-cjk noto-fonts-emoji noto-fonts-extra
+pacman -S fcitx5-im
+sudo pacman -S fcitx5-im
+sudo pacman -S fcitx5-material-color 1
+sudo pacman -S fcitx5-material-color 
+vim .xinitrc
+btop
+xrandr -display
+xrandr -help
+xrandr list
+xrandr -d
+xrandr -d list
+pacman -S fcitx5-rime
+sudo pacman -S fcitx5-rime
+
+startx
+sudo dmesg| grep r8169
+ip link list
+ping www.baidu.com
+nmcli connetc list
+nmcli connection list
+nmcli connection 
+sudo dmesg| grep Bluetooth
+bluetoothctl
+sudo dmesg| grep r8169
+sudo pacman -Syyu
+ping www.baidu.com
+nmcli dev wifi list
+ping www.baidu.com
+sudo pacman -Syyu
+lspci
+sudo lspci
+pacman -Ss realtek
+vim .xinitrc
+btop
+gcc
+nvidia-smi
+prime-run google-chrome-stable
+prime-run obs
+	ls -la
+cd Video
+ls -la
+fcitx5-configtool
+reboot
+nvidia-smi
+nvidia-smi
+prime-run google-chrome-stable
+startx
+google-chrome-stable
+pacman -Rns fcitx5-rime
+sudo pacman -Rns fcitx5-rime
+reboot
+startx
+startx
+google-chrome-stable
+reboot
+google-chrome-stable
+thunar
+thunar
+thunar
+ls -la'
+ls -la
+cd .nv
+ls -la
+cd ComputeCache
+ls -la
+cd ,,.
+cd ../
+cd ../
+rm -rf .nv
+ls -la
+thunar
+yay -S colloid-cursors-git
+lxappearance
+lxappearance
+neofetch
+yay -S papirus-icon-theme-git
+ls -la
+cd .icons
+ls -la
+cd default
+ls -la
+vim index.theme
+lxappearance
+ls -la
+data
+date
+ntpd ntp.aliyun.com
+btop
+google-chrome-stable
+google-chrome-stable
+yay -S rime-ice
+pacman -S fcitx5-rime
+sudo pacman -S fcitx5-rime
+ls -la
+cd .local
+cd share
+ls -la
+cd fcitx5
+ls -la
+cd rime
+ls -la
+vim ~/.local/share/fcitx5/rime/default.custom.yaml
+vim user.yaml
+vim installation.yaml
+vim default.custom.yaml
+vim user.yaml
+cd build
+ls -la
+vim default.yaml
+cd .local/share
+ls -la
+cd fcitx5
+ls -la
+cd themes
+ls -la
+cd ../
+cd rime
+ls -la
+cd sync
+ls -la
+cd ../
+ls -la
+vim installation.yaml
+google-chrome-stable
+google-chrome-stable
+ping www.baidu.com
+pacman -S openssh
+sudo pacman -Syyu
+pacman -S openssh
+sudo pacman -S openssh
+ssh
+cd /etc/
+ls -la
+cd ssh
+ls -la
+cd ../
+cd sshd
+ls -la
+sudo pacman -S opensshd
+sudo pacman -S openssh
+systemctl start sshd.service
+sudo systemctl start sshd.service 
+sshd
+cd /etc
+ls -la
+cd ssh
+ls -la
+vim sshd_config
+ls -la
+cd ~
+ls -la
+vim .xinitrc
+starx
+startx
+startx
+google-chrome-stable
+poweroff
+ls 0la
+cd .config
+cd zsh
+vim .alias
+wifilist
+nmcli dev wifi list
+ping www.baiu.com
+ping www.baiu.com
+nmcli dev wifi list
+btop
+cd .config
+cd btop
+ls -la
+vim btop.conf
+cd /usr/share
+ls -la
+cd btop
+ls -la
+cd themes
+ls -la
+cd  ../
+ls -la
+cd ~
+ls -la
+cd /etc
+ls -la
+clear
+pacman -S rofi
+yay -S rofi
+rofi
+cd .lo
+cd ~
+cd .local
+ls -la
+cd dwm
+vim config.def.h
+cd ~
+cd Code
+ls -la
+cd dwm
+vim config.def.h
+rofi
+rofi show run
+rofi -show run
+rofi show run
+rofi -show windows
+sudo make clean install
+cd Code
+cd dwm
+vim config.h
+rm config.h
+rm config.h
+sudo make clean install
+startx
+startx
+startx
+reboot
+cd /etc
+ls -la
+ls -la
+cd X11
+ls -la
+cd xorg.conf.d
+ls -la
+code 30-touchpad.conf
+sudo code 30-touchpad.conf
+sudo vim  30-touchpad.conf
+cd /etc
+ls -la
+cd X11
+ls -la
+cd xorg.conf.d
+ls -la
+vim 30-touchpad.conf
+sudo gpasswd -a $USER input
+xinput list
+vim 30-touchpad.conf
+start
+startx
+startx
+date
+ntpdate ntp.aliyun.com
+sudo ntpdate ntp.aliyun.com
+sudo ntpdate ntp.aliyun.com
+date
+sudo hwclock -w
+date
+ls -la
+cd /etc
+vim group
+vim passwd
+ls -la
+cd X11
+ls -la
+cd xorg.conf.d
+vim 30-touchpad.conf
+sudo vim 30-touchpad.conf
+reboot
+cat /etc/group
+ls -la
+cd .config
+ls -la
+cd /etc
+ls -la
+cd /etc
+cd xdg
+ls -la
+cp picom.conf ~/.config/picom
+cd .config
+ls -la
+mkdir picom
+cd picom
+ls -la
+code picom.conf
+xprop
+code
+btop
+yay -S docker 
+docker
+docker info
+startdocker
+docker 
+docker info
+docker info
+docker info
+docker info
+sudo docker info
+btop
+cd .config
+cd picom
+ls -la
+vim picom.conf
+vi .config
+vim .config
+cd .config
+vim picom
+cd picom
+vim picom.conf
+vim picom.conf
+ls -la
+ls -la
+cd .local
+ls -a
+ls -la
+cd st
+vim config.def.h
+rm config.h
+sudo make clean install
+ls -la
+btop
+ls -la
+docker 
+nvidia-smi
+ls -la
+cd .local
+cd share
+ls -la
+cd ~
+cd /usr
+cd share
+cd desktop-directories
+ls -la
+cd ../
+ls -la
+startx
+startx
+startx
+docker version
+sudo usermod -aG docker $USER
+cd /etc
+ls -la
+ls -la
+cd docker
+cd do
+reboot
+docker 
+docker info
+docker version
+sudo mkdir -p /etc/docker
+cd /etc/docker
+ls -la
+sudo vim daemon.json
+systemctl daemon-reload
+sudo systemctl restart docker
+docker info
+cd //
+cd /etc
+ls -la
+cd ~
+startdocker 
+docker info
+cd /etc
+ls -la
+cd do
+ls -la | grep d*
+neofetch
+startx
+poweroff
+btop
+ls -la
+n\wifilist
+wifilist
+nmcli connection list
+nmcli list
+nmcli connection list
+nmcli connection 
+btop
+btop
+ping www.baidu.com
+ls -l
+ls -la
+wifilist
+ping www.baidu.com
+docker info
+startdocker
+docker info
+docker pull mzz2017/v2raya
+docker image
+docker images
+# run v2raya\
+docker run -d \\
+  --restart=always \\
+  --privileged \\
+  --network=host \\
+  --name v2raya \\
+  -e V2RAYA_LOG_FILE=/tmp/v2raya.log \\
+  -v /lib/modules:/lib/modules:ro \\
+  -v /etc/resolv.conf:/etc/resolv.conf \\
+  -v /etc/v2raya:/etc/v2raya \\
+  mzz2017/v2raya
+docker ps 
+docker container status v2raya
+docker container status v2rayas
+docker container status v2raya
+docker container stats v2raya
+btop
+xprop
+BTOP
+btop
+startx
+startx
+poweroff
+btoop
+btop
+btop
+sudo pacman -Rns btop 
+sudo pacman -S btop
+btop
+startx
+reboot
+nvidia-smi
+ls -la
+ls -la
+cd Code
+cd dwm
+cd ../
+code dwm
+btop
+cd .local
+ls -la
+cd ../
+cd .config
+ls -la
+cd btop
+ls -la
+vim btop.conf
+cd ../
+rm -rf btop
+pacman -Rns btop
+sudo pacman -Rns btop
+sudo pacman -S btop
+ls -la
+btop
+btop
+btop
+nvidia-smi
+cd ../
+cd .config
+ls -la
+xprop
+cd Code
+ls -la
+cd dwm
+rm config.h
+rm config.h
+ls -la
+sudo make clean install 
+alsamixer
+wget https://dwm.suckless.org/patches/hide_vacant_tags/dwm-hide_vacant_tags-6.3.diff
+patch < dwm-hide_vacant_tags-6.3.diff
+ls -la
+mv dwm-hide_vacant_tags-6.3.diff patches
+ls -la
+sudo make clean install
+ls -la
+cd Code
+ls -la
+cd dwm
+rm config.h
+sudo make clean install
+cd Code
+cd dwm
+vim config.def.h
+vim config.def.h
+xprop
+vim config.def.h
+rm -f config.h
+sudo make clean install 
+cd Code
+cd dwm
+rm -f config.h
+vim config.def.h
+sudo make clean install
+nvidia-smi
+btop
+cd Code
+cd dwm
+vim config.def.h
+rm config.h
+rm -f config.h
+sudo make clean install 
+cd .config
+ls -la
+cd picom
+ls -la
+vim picom.conf
+cd .local
+cd ../
+cd .config
+cd picom
+ls -la
+vim picom.conf
+picom
+picom&
+pacman -S light
+sudo pacman -S light
+light man
+light
+light -U 15%
+light
+light -U 15
+light
+light -S 85
+light
+sudo light -S 85
+light
+sudo light -S 75
+sudo light -S 65
+sudo light -S 35
+sudo light -S 45
+sudo light -S 55
+btop
+nvidia-smi
+cd .local
+cd share
+ls -la
+cd applications
+ls -la
+vim mimeapps.list
+cd ~c
+cd /usr
+cd share
+cd applications
+ls -la
+thunar
+vim com.obsproject.Studio.desktop
+sudo vim com.obsproject.Studio.desktop
+nvidia-smi
+prime-run google-chrome-stable
+nvidia-smi
+btop
+xprop
+prime-run code
+nvidia-smi
+nvidia-smi
+top
+btop
+cd /usr
+cd share/applications
+ls -l
+vim google-chrome.desktop
+ls -la
+date
+ntpdate ntp.aliyun.com
+sudo ntpdate ntp.aliyun.com
+date
+sudo hwclock --systohc
+code
+xprop
+vim .config
+cd .config
+cd picom
+ls -la
+vim picom.conf
+picom
+vim picom.conf
+picom
+vim picom.conf
+picom
+picom
+vim picom.conf
+picom
+obs
+xprop
+code
+xprop
+pacman -S nodejs
+yay -S nodejs
+node -v
+npm 
+yay -S npm
+npm -v
+neofetch
+btop
+startdocker
+docker ps
+light
+code
+pacman -S telegram-desktop
+sudo pacman -S telegram-desktop
+neofetch
+ls -la
+ls -la
+cd Downloads
+ls -la
+cd Telegram\ Desktop
+ls -la
+startx
+startx
+startx
+startx
+startx
+startx
+startx
+poweroff
+ls -la
+pacman -S telegram-desktop
+light
+btop
+btop
+nvidia-smi
+prime-run chrome
+prime-run google-chrome
+prime-run google-chrome-stable
+btop
+btop
+startdocker
+docker ps
+btop
+code
+btop
+nvidia-smi
+cd Downloads
+ls -la
+date
+ls -la
+cd ~/.config
+ls -la
+mkdir dunst
+cd dunst
+btop
+vim dunstrc
+notify-send hello
+notify-send hello
+cd .config
+ls -la
+cd dunst
+code dunstrc
+cd /usr
+ls -la
+cd share
+cd icons
+ls -la
+cd Papirus
+ls -la
+cd 16x16
+ls -la
+pwd
+ls -la
+cd ./
+cd ../
+cd ../
+cd Papirus-Dark
+ls- la
+ls -la
+cd 16x16
+ls -la
+cd status
+ls -la
+cd ~
+ls ila
+lxappearance
+notify-send hello
+notify-send Young
+alsamixer
+btop
+alsamixer
+alsamixer
+sudo alsamixer[A
+alsamixer
+notify-send hello
+xprop
+cd .config
+cd picom
+vim picom.conf
+notify-send hello
+btop
+startx
+startx
+startx
+reboot
+ls -la
+code
+cd Code
+code dwm
+cd .dwm
+cd dwm
+git add .
+git commit -m " add patch" 
+cd .xi
+startdocker
+startx
+reboot
+startdocker
+vim .xinitrc
+thunar
+startx
+startx
+startx
+startx
+startx
+startx
+xim .xinitrc
+vim .xinitrc
+neofetch
+neofetch
+sudo pacman -Syyu
+yay -S yyu
+yay -Syyu
+poweroff
+nvidia-smi
+notify-send hello
+cd .local
+ls -la
+d ../
+cd ../
+cd ..co
+cd .config
+cd picom
+ls -la
+code picom.conf
+notify-send hello
+journalctl
+dmesg
+code
+dmesg
+sudo dmesg
+cd Code
+sudo dmesg  > 1.txt
+code 1.txt
+yay -Rns visual-studio-code-bin
+ls -l
+btop
+btop
+pacman -Rns xorg
+sudo pacman -Rns xorg
+btop
+btop
+btop
+startx
+btop
+startx
+ls -la
+cd Code
+ls -la
+cd dwm
+make clean 
+sudo make uninstall 
+cd ../
+cd .loc
+cd ..
+cd .local
+ls -la
+cd dwm
+make clean install 
+sudo make clean install 
+cd ~
+startx
+ls -la
+cd .local
+ls -la
+cd dwm
+make clean
+make uninstall
+sudo make uninstall
+cd ~
+cd Code
+cd dwm
+make clean install
+sudo make clean install
+ls -la
+startx
+btop
+nvidia-smi
+reboot
+xrefresh
+btop
+yay -S visual-studio-code-bin
+btop
+code
+startxdocker
+startdocker
+date
+ntpdate ntp.aliyun.com
+sudo ntpdate ntp.aliyun.com
+btop
+cd /etc
+ls -la
+cd xdg
+ls -la
+cp picom.conf ~/.config
+ls -la
+cd ~/.config
+ls -la
+mv picom.conf picom
+cd picom
+ls -la
+cd ../
+code picom
+btop
+xprop
+xprop
+btop
+picom
+ls -la
+cd .config
+ls -la
+cd picom
+vim picom.conf
+cp picom.conf p
+rm picom.conf
+ls -la
+picom
+mv p picom.conf
+picom
+prime-run picom
+mv picom.conf p
+ls- la
+picom
+xprop
+xprop
+xprop
+picom
+picom
+picom
+picom
+picom
+picom
+xprop
+xprop
+vim .xinitrc
+top
+btop
+kill picom
+btop
+prime-run picom
+prime-run picom
+cd .config
+cd picom
+ls -la
+rm p
+code picom
+code picom.conf
+xprop
+cd .config
+cd picom
+vim picom.conf
+nmcli dev wifi list
+yay -S i3lock-color
+i3lock
+cd .config
+ls -la
+ip link
+cd ../
+cd Code
+ls -la
+mkdir Scripts
+cd Scripts
+ls -la
+vim lock.sh
+code lock.sh
+sh lock.sh
+sh lock.sh
+cd ~
+ls -la
+cd /etc
+ls -la
+cd i:q
+ls -la
+i3lock -h
+man i3lock
+pacman -S ranger
+yay  -S ranger
+
+i3lock
+cd .config
+ls -la
+ip link
+cd ../
+cd Code
+ls -la
+mkdir Scripts
+cd Scripts
+ls -la
+vim lock.sh
+code lock.sh
+sh lock.sh
+sh lock.sh
+cd ~
+ls -la
+cd /etc
+ls -la
+cd i:q
+ls -la
+i3lock -h
+man i3lock
+pacman -S ranger
+yay  -S ranger
+
+ranger
+pacman -S xclip
+sudo pacman -S xclip 
+cd .local
+cd share/
+ls -la
+cd ~
+cd /usr
+cd share
+ls -la
+where i3lock
+ls -la
+cd /
+cd /etc
+cd ~/Code
+cd Scripts
+ls la
+ls -la
+pwd
+cd ~/.config
+cd zsh
+vim .alias
+vim .alias
+lock
+cd Code
+cd Scripts
+ls -la
+vim lock.sh
+lock
+thunar
+cd ../
+ls -l
+cd dwm
+sudo make clean uninstall
+cd ~/.local
+cd dwm
+ls -la
+make clean install
+sudo make clean install
+google-chrome-stable
+cd .local
+ls -la
+cd dwm
+ls -la
+sudo make clean uninstall
+cd ~/Code
+cd dwm
+sudo make clean install
+thunar
+cd .local
+ls -la
+cd jdk-17.0.6
+pwd
+pacman -S goland
+yay -S goland
+ls -la
+cd .local
+ls -la
+wget https://download.oracle.com/java/17/latest/jdk-17_linux-x64_bin.tar.gz
+ls -la
+tar -xzvf jdk-17_linux-x64_bin.tar.gz
+ls -la
+rm jdk-17_linux-x64_bin.tar.gz
+ls -la
+cd jdk-17.0.6
+ls -la
+cd ../
+ls -la
+cd jdk-17.0.6
+ls -la
+cd ~
+vim .xinitrc
+java -version
+btop
+neofetch
+ls -la
+cd Code
+code dwm
+xpr
+xprop
+cd Code
+ls -la
+cd dwm
+ls -la
+ls -la
+rm -f config.h
+make clean install
+sudo make clean install
+prime-run goland
+pacman -Rns goland
+sudo pacman -Rns goland
+ls -la
+neofetch
+sudo pacman -Rns $(pacman -Qtdq)
+sudo pacman -Rns $(pacman -Qtdq)
+pacman -Qtdq
+cd .local
+ls -la
+btop
+ls -la
+wget https://repo.huaweicloud.com/java/jdk/11.0.2+9/jdk-11.0.2_linux-x64_bin.tar.gz
+tar -xzvf jdk-11.0.2_linux-x64_bin.tar.gz
+ls -la
+rm jdk-11.0.2_linux-x64_bin.tar.gz
+ls -la
+cd ~
+vim .xinitrc
+sls -la
+yay -S goland
+startx
+vim .xinitrc
+startx
+startx
+startx
+vim .xinitrc
+startx
+vim .xinitrc
+startx
+startx
+startx
+startx
+startx
+startx
+startx
+startx
+java -version
+goland
+cd .config
+ls -la
+rm -rf  JetBrains
+goland
+reboot
+goland
+yay -Rns goland
+goland
+sudo ntpdate ntp.aliyun.com
+cd .config
+ls -la
+cd /etc
+ls -la
+ranger
+startdocker
+date
+vim ~/.xinitrc
+vim ~/.xinitrc
+yay -S jetbrains-toolbox
+neofetch
+pacman -S goland
+xprop
+cd Downloads
+ls -la
+cd ../
+ls -lla
+cd .java
+ls -la
+cd ../
+cd Code
+ls -la
+code dwm
+neofetch
+startx
+xprop
+vim  .xinitrc
+reboot
+startdocker 
+vim .xinitrc
+ntpdate ntp.aliyun.com
+sudo ntpdate ntp.aliyun.com
+pacman -Scc
+sudo pacman -Scc
+yay -Scc
+sudo pacman -Syyu
+yay -Syyu
+btop
+neofetch
+yay -Yc
+neofetch
+du
+cd .local
+du
+cd share
+du
+cd JetBrains
+DU
+du
+cd Toolbox
+du
+cd apps
+du
+cd ~
+cd Code
+ls -la
+cd dwm
+rm -r config.h
+sudo make clean install
+cd Code
+code dwm
+lock
+ls -la
+cd .config
+rm -rf  QQ
+notify-send helo
+startdocker
+cd .cache
+ls -la
+cd ~
+ls -la
+cd .config
+cd Q
+cd QQ
+ls -la
+lock
+btop
+cd .config
+ls -la
+cd ~/.local/share
+ls -la
+cd TelegramDesktop
+ls -la
+cd tdata
+ls -la
+cd ../
+xprop
+cd ~
+cd Code
+ls -la
+cd dwm
+ls -la
+vim config.def.h
+rm config.h
+rm -f config.h
+sudo make clean install 
+btop
+nvidia-smi
+cd ../
+cd ../
+cd .config
+ls -la
+cd picom
+vim picom.conf
+vim picom.conf
+cd ~/Code
+cd dwm
+ls -la
+git commit -m "ÈÉ∫É∞ËÉ∑ÉØÊÉº™‰ΩøÁÉ¥®ÊÉÄÉßÁ≠æÁÉ∫É§ËÉÅ•‰∏Å" 
+git config --global user.email "yongchihua@gmail.com"
+git config --global user.name "Chi"
+git commit -m "ÈÉ∫É∞ËÉ∑ÉØÊÉº™‰ΩøÁÉ¥®ÊÉÄÉßÁ≠æÁÉ∫É§ËÉÅ•‰∏Å" 
+python
+alsamixer
+btop
+yay -mpv
+yay -S mpv
+neofetch
+mpv
+yay -Rns mpv
+neofetch
+yay -S vlc
+vlc
+nvidia-smi
+cd Video
+ls -la
+rm *
+ls -la
+nvidia-smi
+prime-run vlc
+btop
+cd Video
+mpv 2023-04-10\ 11-33-48.mkv
+mpv 2023-04-10\ 11-33-51.mkv
+mpv 2023-04-10\ 11-33-51.mkv
+neofetch
+cd Code
+code dwm
+cd Code
+cd ../
+cd Video
+ls -la
+rm 2023-04-12\ 00-42-42.mkv
+nvidia-smi
+nvidia-smi
+nvidia-smi
+btop
+nvidia-smi
+btop
+rofi -show windows
+cd .config
+ls -la
+ls -la
+mkdir rofi
+cd rofi
+vim rofi.rasi
+cd Code
+ls -la
+cd dwm
+rm -f config.h
+sudo make clean isntall
+sudo make clean install
+code
+cd .config
+ls -la
+cd rofi
+ls -la
+pwd
+ls -la
+code
+rofi -show drun
+ping www.github.com
+code
+cd /usr/share/applications
+ls -la
+vim qq.desktop
+cd .config
+cd rofi
+vim rofi.rasi
+rofi -show windows
+rofi -show window
+rofi -show run
+vim rofi.rasi
+rofi -show run -theme ~/.config/rofi/rofi.rasi
+rofi -show run -theme ~/.config/rofi/rofi.rasi
+cdoe
+code
+startx
+startx
+startx
+startx
+startx
+cd Code
+ls -la
+cd dwm
+rm -f config.h
+sudo make clean isntall
+sudo make clean isntall
+sudo make clean install
+cd ~
+startx
+startx
+sudo make clean install
+xprop
+sudo make clean install 
+sudo make clean install 
+xrandr
+xrandr --output HDMI-1 --left-of eDP-1
+xrandr --output HDMI-1 --mode 1920x1080
+xrandr --output HDMI-1 --mode 1920x1080 
+sudo xrandr --output HDMI-1 --left-of eDP-1
+xrandr | grep -v $INNER_PORT | grep -w 'connected' | awk '{print $1}'
+xrandr | grep -v $INNER_PORT | grep -w 'connected' | awk '{print $1}'
+xrandr | grep -v $INNER_PORT 
+xrandr | grep  $INNER_PORT 
+prime-run xrandr --output HDMI-1 --mode 1920x1080
+prime-run xrandr --output HDMI-1 --mode 1920*1080
+prime-run xrandr --output HDMI-1-0 --mode 1920
+xrandr --output HDMI-1-0 --mode 1920x1080
+xrandr --output HDMI-1-0 --mode 1920x1080 --rate 75
+light
+xrandr --output eDP-1 --primary --auto --left-of HDMI-1-0 --rate 75
+sudo make clean install
+xrand
+xrandr
+cd Downloads
+cd Wallpaper
+feh 78dc5761ab8c4b55b940967ae24ebe3a.jpg
+feh vim .xi78dc5761ab8c4b55b940967ae24ebe3a.jpg
+feh --bg-fill 505e353d14994bb080105c4ce0e0d841.jpg
+vim .xinitrc
+ls -la
+poweroff
+date
+cd Code
+code dwm
+cd Code
+code dwm
+cd Code
+code dwm
+alsamixer
+timedatectl
+systemctl status ntp
+sudo systemctl status ntp
+sudo systemctl start ntp
+sudo systemctl start ntpdate.service
+sudo systemctl start ntpdate.service
+timedatectl
+startdocker 
+light
+dmesg
+sudo dmesg | grep r8169
+cd .config
+cd zsh
+vim .zshrc
+cd ../ 
+code zsh
+cd Code
+cd ../
+cd .config
+code zsh
+btop
+alsamixer
+alsamixer
+xrandr | grep -v $INNER_PORT
+grep 
+*96+20
+1
+xrandr | grep -v $INNER_PORT+*~\*84
+;2A;2Bl;2C0;2B;2A
+/
+l;2C.
+5~/~/
+~**
+grep -v
+cd Code
+ls -la
+cd Scripts
+ls -la
+alsamixer
+vim set_screen.sh
+ls -la
+code  set_screen.sh
+sh set_screen.sh
+sh set_screen.sh
+sh set_screen.sh
+ls -la
+rm set_screen.sh
+alsamixer
+rofi -show run
+cd ../
+cd dwm
+sudo make clean install
+cd Code
+code dwm
+cd Code
+cd dwm
+sudo make clean install
+cd Code
+code dwm
+cd Code
+cd dwm
+make clean install 
+sudo make clean install 
+cd Code
+ls -la
+cd dwm
+ls -la
+cd ../
+code dwm
+ls -la
+cd dwm
+ls -la
+vim .git
+git add config.def.h
+git commit -m "modify rule"
+cdd Code
+cd Code
+cd dwm
+cd dwm
+sudo make clean install
+ls -la
+cd Code
+code dwm
+cd Code
+ls -la
+cd dwm
+sudo make clean install 
+cd Code
+cd dwm
+ls -la
+cd ../
+code dwm
+alsamixer
+cd Code
+ls- la
+cd dwm
+git diff dwm.c
+git status
+git restore dwm.c
+git diff dwm.c
+git status
+sudo make clean install
+ls -la
+cd Code
+code dwm
+xprop
+alsamixer
+top
+btop
+neofetch
+vim .xinitrc
+xrandr
+cat /sys/class/power_supply/BAT1/capacity
+cat /sys/class/power_supply/BAT1
+cat /sys/class/power_supply/BAT0
+cat /sys/class/power_supply/BAT0/capacity
+cat /sys/class/power_supply/BAT0/status
+cat /sys/class/power_supply/BAT0/status
+cat /sys/class/power_supply/BAT0/status
+printf "%s‚É∏Ä %.0f%s\n" "$SEP1" "$(light)" "$SEP2"
+cd Code
+ls -la
+cd dwm
+ls- la
+ls -la
+ls -la
+ls -la
+patch
+ls -la patches
+wget https://dwm.suckless.org/patches/statuscmd/dwm-statuscmd-status2d-20210405-60bb3df.diff
+ls -la
+code .gitignore
+ls -la
+make clean
+ls -la
+ls -la
+git add .gitignore
+git commit -m "new .gitignore"
+git status
+patch dwm-statuscmd-status2d-20210405-60bb3df.diff
+patch < dwm-statuscmd-status2d-20210405-60bb3df.diff
+cd ../
+btop
+cd Scripts
+vim backlight.sh
+sh backlight.sh
+cd ../
+cd dwm
+ls -la
+mv dwm-statuscmd-status2d-20210405-60bb3df.diff patches
+ls -la
+sudo make clean install
+echo $IDENTIFIER
+cd ~
+ls -la
+vim .xinitrc
+pipewire
+vim .xinitrc
+vim .xinitrc
+vim .xinitrc
+cd Code
+ls -la
+cd Scripts
+ls -la
+sh backlight.sh
+vim .xinitrc
+cd ..
+cd Hua
+cd Code
+ls -la
+code Scripts
+cd Code
+code Scripts
+vim .xinitrc
+date
+ntpdate ntp.aliyun.com
+sudo ntpdate ntp.aliyun.com
+startx
+startx
+startx
+startx
+startx
+startx
+startx
+startx
+startx
+startx
+startx
+startx
+startx
+startx
+startx
+sudo make clean install 
+sudo make clean install 
+cd ../
+cd Scripts
+sh set_screen.sh
+xrandr
+sh set_screen.sh
+vim .xinitrc
+cd Code
+cd Scripts
+ls- la
+rm backlight.sh
+poweroff
+cd ../
+cd Scripts
+pwd
+ls -la
+sudo make clean install 
+sudo make clean install 
+sudo make clean isntall
+sudo make clean install
+startdocker
+ls -la
+cd .local
+ls -la
+git clone https://github.com/LukeSmithxyz/dwmblocks.git
+ls -la
+code dwmblocks
+free -h | awk '/^Mem/ { print $3\"/\"$2 }' | sed s/i//g
+free -h | awk '/^Mem/ { print $3\"/\"$2 }' | sed s/i//g
+date
+cd dwmblocks
+ls -la
+sudo make clean install
+dwmblocks
+vim .xinitrc
+wifilist
+ping www.baidu.com
+cd Downloads
+btop
+dwmblocks
+wpctl
+cd Code
+cd Scripts
+ls -l
+vim volume.sh
+code volume.sh
+sh volume.sh
+btop
+ls -la
+cd .local
+cd dwmblocks
+cd ../
+code dwmblocks
+ntpdate ntp.aliyun.com
+sudo ntpdate ntp.aliyun.com
+start
+startx
+startx
+startx
+sudo make clean install
+sudo make clean install
+cd .local
+cd dwmblocks
+sudo make clean uninstall
+vim Makefile
+ls -la
+make uninstall
+make uninstall
+vim Makefile
+date
+neofetch
+vim .xinitrc
+reboot
+cd .local
+cd dwmblocks
+sudo make clean install
+date
+sudo make clean install
+dwmblocks
+vim .xinitrc
+startx
+reboot
+cd .local
+ls -la
+code dwmblocks
+cd ../
+cd .config
+cd zsh
+vim .alias
+alsamixer
+set_volume
+set_volume
+vim .xinitrc
+dwmblocks
+btop
+dwmblocks
+cd .local
+cd dwmblocks
+cd ../
+code dwmblocks
+d .local
+cd .local/dwmblocks
+make clean isntall
+sudo make clean isntall
+sudo make clean isntall
+ls -la
+vim Makefile
+sudo make clean install
+dwmblocks
+cd .local
+cd dwmblocks
+sudo make clean install
+cd .local
+code dwmblocks
+cd ..
+cd Code
+cd Scripts
+pwd
+ls -la
+vim .config
+cd .config/zsh
+vim .alias 
+dwmblocks
+ls -la
+cd Code
+cd Scripts/l
+cd Scripts/
+ls -la
+chmod u+x volume.sh
+ls -la
+dwmblocks
+vim .xinitrc
+dwmblocks
+cd .local
+code dwmblocks
+cd Code
+cd Scripts
+sh volume.sh
+btop
+alsamixer
+cd .local
+cd dwm
+ls -all
+rm config.h
+sudo make clean install
+cd .local
+cd dwm
+ls -la
+make clean uninstall
+sudo make clean uninstall
+cd ~/Code
+cd dwm
+ls -la
+sudo make clean install
+cd Code
+code dwm
+cd Scripts
+vim volume.sh
+cd Code
+code Scripts
+dwmblocks
+btop
+startdocker
+cd Code
+cd Scripts
+vim volume.sh
+vim volume.sh
+code volume.sh
+alsamixer
+dwmblocks
+cd Code
+code dwm
+start
+startx
+startx
+startx
+startx
+startx
+startx
+startx
+startx
+startx
+startx
+startx
+vim Code
+cd Code
+vim Scripts/volume.sh
+startx
+cd ../
+vim .xinitrc
+startx
+startx
+make clean install
+sudo make clean install
+poweroff
+sudo make clean install
+echo $DESTDIR
+echo "$DESTDIR"
+dwmblocks
+cd Code
+cd ~/.local/dwmblocks
+sudo make clean uninstall
+cd ../
+cd dwmblocks
+vim Makefile
+cd ..
+rm -rf dwmblocks
+ls -la
+cd C
+cd ../
+cd Code
+cd Scripts
+rm volume.sh
+ntpdate ntp.aliyun.com
+sudo ntpdate ntp.aliyun.com
+date
+sudo make clean install
+dwmblocks
+cd Code
+code Scripts
+sudo make clean install
+cd Code
+ls -la
+cd dwm
+git status dwm.c
+git diff dwm.c
+git restore dwm.c
+git status
+git diff dwm.c
+sudo make clean install
+git restore config.def.h
+git diff
+git diff config.def.h
+ls -la
+sudo make clean install
+vim .gitignore
+wifilist
+git statsu
+git status
+git add .
+git commit -m "add .gitignore"
+git status
+cd patches
+cd ../
+patch < patches/dwm-statuscmd-status2d-20210405-60bb3df.diff
+ls -la
+cd ../
+code dwm
+cd dwm
+sudo make clean install
+vim config.def.h
+sudo make clean install
+date
+ls -la
+cd ../
+cd ~/.local
+ls -la
+cd dwmblocks
+ls -la
+cd ../
+code dwmblocks  ~/Code/Scripts
+brop
+btop
+startdocker
+cd .config
+cd zsh
+vim .alias
+ls -la
+cd ~
+ntpdate ntp.aliyun.com
+sudo ntpdate ntp.aliyun.com
+date
+sudo hwclock --systohc
+ls -la
+fc-cache -v
+cd .local
+ls -la
+git clone https://github.com/torrinfail/dwmblocks.git
+cd dwmblocks
+ls -la
+cd ../
+rm -rf dwmblocks
+ls -la
+git clone --depth=1 https://github.com/torrinfail/dwmblocks.git
+cd dwmblocks
+ls -la
+wget https://dwm.suckless.org/patches/statuscmd/dwmblocks-statuscmd-20210402-96cbb45.diff
+ls -la
+patch < dwmblocks-statuscmd-20210402-96cbb45.diff
+cd ../
+code dwmblocks
+cd dwmblocks
+sudo make clean install
+sudo make clean install
+sudo make clean install
+dwmblocks
+echo $BUTTON
+echo $BUTTON
+nmcli -t -f NAME c show --active
+btop
+dwmblocl
+dwmblocks
+btop
+cd .config
+cd ..
+cd .local
+code dwmblocks
+wpctl
+ntpdate ntp.aliyun.com
+sudo ntpdate ntp.aliyun.com
+pipewire
+alsamixer
+wpctl
+wpctl set-volume @DEFAULT_AUDIO_SINK@ 100%
+btop
+cd Code
+code
+cd .local
+cd dwmblocks
+sudo make clean install
+dwmblocks
+dwmblocks
+df -h --output=target,used,size
+dwmblocks
+dwmblocks
+dwmblocks
+ping www.baidu.com
+dwmblocks
+dwmblocks
+ping ww.baidu.com
+btop
+ping ww.baidu.com
+dwmblocks
+ls -la
+sudo systemctl restart docker
+dwmblocks
+btop
+cd .co
+cd  ~
+cd .config
+ls- la
+cd btop
+ls -la
+vim btop.conf
+cd /etc
+cd /usr/bin
+ls -la
+cd ./
+cd ..
+cd share
+ls -la
+cd btop
+ls -la
+cd themes
+ls -la
+cd ../
+dwmblocks
+dwmblocks
+dwmblocks
+dwmblocks
+dwmblocks
+dwmblocks
+dwmblocks
+dwmblocks
+dwmblocks
+nmcli -a | grep 'Wired connection' | awk 'NR==1{print $1}
+nmcli -a | grep 'Wired connection' | awk 'NR==1{print $1}'
+nmcli -a
+nmcli -a | grep 'connection' | awk 'NR==1{print $1}'
+nmcli -a | grep 'inet4 192' | awk '{print $2}'
+dwmblocks
+dwmblocks
+dwmblocks
+dwmblocks
+awk '/^\s*w/ { print "ÉøÉ≥∂", int($3 * 100 / 70) "% " }' /proc/net/wireless
+/sys/class/net/e*/operstate
+cat /sys/class/net/e*/operstate
+sudo cat /sys/class/net/e*/operstate
+grep -xq 'up' /sys/class/net/w*/operstate
+grep -xq 'down' /sys/class/net/w*/operstate
+cat /sys/class/net/tun*/operstate
+sudo cat /sys/class/net/tun*/operstate
+sudo cat /sys/class/net/tun*
+ cat /sys/class/net/tun*
+dwmblocks
+cd /proc/net/wireless
+cd /proc/net/wireless
+cat /proc/net/wireless
+cat /proc/net/wireless
+nmcli | grep "$wifi_grep_keyword" | sed "s/$wifi_grep_keyword//" | awk '{print $2}' | paste -d " " -s
+nmcli | grep "$wifi_grep_keyword" | sed "s/$wifi_grep_keyword//" | awk '{print $2}'
+	nmcli | grep "$wifi_grep_keyword"
+dwmblocks
+dwmblocks
+dwmblocks
+dwmblocks
+dwmblocks
+dwmblocks
+dwmblocks
+dwmblocks
+dwmblocks
+dwmblocks
+dwmblocks
+dwmblocks
+dwmblocks
+dwmblocks
+dwmblocks
+dwmblocks
+dwmblocks
+ping www.baidu.com
+startx
+sudo make clean install
+vim .xinitrc
+startx
+vim .xinitrc
+btop
+startx
+ls -la
+chmod u+x volume.sh
+ls -la
+chmod u+x network.sh
+grep -xq 'up' /sys/class/net/w*/operstate
+cd /sys
+cd class
+ls -la
+cd net
+ls -la
+nmcli -a
+nmcli
+sudo make clean install
+nmcli -a | grep 'Wired connection' | awk 'NR==1{print $1}'
+nmcli -a | grep 'W*' | awk 'NR==1{print $1}'
+nmcli -a | grep 'w*' | awk 'NR==1{print $1}'
+nmcli -a | grep 'w*' | awk 'NR==1{print $3}'
+nmcli -a | grep 'Wired connection' | awk 'NR==1{print $1}'
+nmcli -a 
+nmcli -a | grep 'Â∑≤ËøÉæÊÉÆ•' | awk 'NR==1{print $1}'
+nmcli -a | grep 'Â∑≤ËøÉæÊÉÆ•' | awk 'NR==1{print $2}'
+nmcli -a | grep 'Â∑≤ËøÉæÊÉÆ•' | awk 'NR==1{print $3}'
+nmcli -t -f active,ssid dev wifi | grep '^yes' | cut -c 5-
+sudo make clean install
+code
+sudo make clean install
+dwmblocks
+dwmblocks
+sudo systemctl stop docker 
+reboot
+code
+sudo light 35
+sudo light -S 35
+sudo light -S 25
+cd Code
+code dqm
+code dwm
+xprop
+date '+%m/%d %H:%M'
+startdocker
+cd `
+cd ~
+ls -la
+ssh-keygen -t rsa
+ls -la
+cd .ssh
+ls -la
+cat id_rsa.pub
+cd ~
+ls -la
+cd Code
+ls -la
+git remote add git@github.com:haiword135/dwm.git main
+cd dwm
+git remote add git@github.com:haiword135/dwm.git main
+git remote add git@github.com:haiword135/dwm.git 
+git branch
+git remote add origin  git@github.com:haiword135/dwm.git
+git remote -v
+git remote rm
+git remote rm origin
+git remote -v
+git remote add origin  git@github.com:haiword135/dwm.git
+git status
+git push origin main
+git push origin main
+cd ../
+ls -la
+cd Scripts
+git init
+git commit -m "first commit"
+git branch -M main
+git status
+git add .
+git branch -M main
+git commit -m "first commit"
+git remote add origin git@github.com:haiword135/Scripts.git
+git push -u origin main
+cd ~
+ls -la
+ls -a
+ls -la
+cd .local
+ls -la
+cd dwmblocks
+ls -la
+git branch
+git remote rm origin
+git remote -v
+git status
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:haiword135/dwmblocks.git
+git push -u origin main
+git push -u origin main -f
+ls -la
+git push -u origin main
+rm .git
+rm -rf .git
+git init
+git status
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:haiword135/dwmblocks.git
+git push -u origin main
+cd ~
+ls -la
+btop
+thunar
+thunar
+thunar
+code
+vim .xinitrc
+cdode
+code
+cd Code
+cd dwm
+\ls -l
+vim config.def.h
+ls -la
+cd Video
+ls -la
+vlc 2023-04-13\ 01-39-58.mkv
+ls -la
+ls -lah
+rm 2023-04-13\ 01-39-58.mkv
+ls -la
+btop
+cd ~
+atartx
+startx
+startx
+btop
+nvidia-smi
+btop
+reboot
+sh date.sh
+sh date.sh
+sh date.sh
+ip a
+btop
+ xrandr --output HDMI-1 --mode 1920x1080 --rate 60
+ xrandr --output HDMI-1-0 --mode 1920x1080 --rate 60
+ xrandr --output HDMI-1-0 --mode 1920x1080 --rate 75
+nvidia-smi
+btop
+xrandr --query
+xrandr --output HDMI-1 --left-of DP-1
+xrandr --output HDMI-1-0 --left-of DP-1
+xrandr 
+xrandr --output HDMI-1-0 --left-of eDP-1
+du
+cd .local
+du
+cd share
+du
+cd ~/.config
+du
+cd google-chrome
+du
+cd ~
+s
+cd ~
+du
+cd /
+du
+btop
+startx
+xrandr --output eDP-1 auto
+xrandr --output eDP-1 --auto
+reboot
+code
+startdocker
+startx
+cd Code
+code Scripts
+cd ~
+vim .xinitrc
+vim .xinitrc
+cd Downloads
+cd Wallpaper
+ls -la
+pwd
+ lspci -k | grep -A 2 -E "(VGA|3D)"
+ sudo pacman -S mesa lib32-mesa vulkan-intel lib32-vulkan-intel
+pacman -Qs nvidia
+ewboot
+reboot
+xrandr | grep -v $INNER_PORT | grep -w 'connected' | awk '{print $1}'
+xrandr | grep -v $INNER_PORT 
+xrandr | grep -v eDP-1 | grep -w 'connected' | awk '{print $1}'
+cd Scripts
+sh set_screen.sh
+sh set_screen.sh
+lspci -k | grep -A 2 -E "(VGA|3D)"
+neofetch 
+nvidia-smi
+sudo pacman -Rs $(pacman -Qtdq)
+pacman -Qtdq
+startx
+reboot
+btop
+cd Downloads
+vim steam.dmg
+ls -la
+startx
+ntpdate ntp.aliyun.com
+sudo ntpdate ntp.aliyun.com
+cd Code
+cd dwm
+vim config.def.h
+nvidia-smi
+pacman -Qs nvidia
+pacman -Qs intel
+pacman -Qs linuxqq
+startsocker
+startdocker
+cd Code
+code dwm
+poweroff
+code
+startx
+startx
+alsamixer
+alsamixer
+reboot
+sudo make clean install
+sudo make clean install
+ksflsa
+cd .local
+cd st/
+ls -la
+vim config.def.h
+exit
+ls -la
+cd Code
+cd dwm
+ls -la
+cim config.def.h
+cd ../../
+cd .config
+cd picom
+ls -la
+vim picom.conf
+startdocker
+vim .xinitrc
+picom
+btop
+man picom
+ls -la

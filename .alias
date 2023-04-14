@@ -1,0 +1,7 @@
+alias startsshd='sudo  systemctl start sshd'
+alias startdocker='sudo systemctl start docker'
+alias cdgo='cd ~/Code/Go'
+alias cdjava='cd ~/Code/Java'
+alias wifilist='nmcli dev wifi list'
+alias du='sudo du -h --max-depth=1 | sort -hr'
+alias lock='sh /home/Hua/Code/Scripts/lock.sh' 
