@@ -6361,3 +6361,2284 @@ picom
 btop
 man picom
 ls -la
+ls -la
+ls -la
+ls- la
+ls -la
+pacman -S fzf
+sudo pacman -S fzf
+cd .config
+cd z
+cd zsh
+ls -la
+vim .alias
+du
+du /
+ls -la
+viim .zshrc
+nvim .zshrc
+source .zshrc
+pwd
+nvim .zshrc
+cd plugins
+ls -la
+cd fzf-tab
+ls -la
+cd ../
+rm -rf fzf-tab
+ls -la
+git clone https://github.com/Aloxaf/fzf-tab.git
+cd ../
+source .zshrc
+ls -la
+nvim .zshrc
+cat .zshrc
+sudo pacman -S zsh-syntax-highlighting
+ls -la
+source .zshrc
+ls -la
+startx
+du
+du 
+cd ../
+cd /
+du
+ls -la
+poweroff
+systemctl start docker
+systemctl list
+systemctl list-units --type=service --state=active\
+
+upower
+systemctl list-units --type=service --state=active\
+
+back
+ssh root@10.200.7.57
+ls -la
+cd ../
+ls -la
+exit
+ls -la
+cd Code
+ls -la
+cd gpmall
+ls -la
+scp root@10.200.7.60 
+ssh root@10.200.7.60
+sl -la
+ls -la
+cd ../
+ls -la
+mv kaf.tar.gz gpmall
+cd Code
+ls -la
+cd gpmall
+scp -P5004 root@10.200.7.60:/root/zk.tar.gz
+scp -P5004 root@10.200.7.60:/root/zk.tar.gz ./
+ls -la
+cd ~
+ssh root@10.200.7.60
+ssh root@10.200.7.60
+ssh root@10.200.7.60
+ssh root@10.200.7.60
+ssh root@10.200.7.60
+ls -la
+cd Code
+ls -la
+scp -P5002 -r root@10.200.7.60:/data/yanghancheng
+scp -P5002 -r root@10.200.7.60:/data/yanghancheng ./
+ls -la
+tar -czvf yanghancheng
+tar -czvf yanghancheng.tar.gz yanghancheng
+ls -la
+scp yanghancheng.tar.gz root@10.200.7.60
+scp yanghancheng.tar.gz root@10.200.7.60:/root
+ls -la
+ls -la
+rm -rf yanghancheng
+rm -f yanghancheng.tar.gz
+ls -la
+rm root@10.200.7.60
+ls -la
+ls -la
+cd gpmall
+ls -la
+scp rabbitmq-management.tar root@10.200.7.45 -p 1022
+scp rabbitmq-management.tar root@10.200.7.45:/root/ -p 1022
+scp -P1022  rabbitmq-management.tar root@10.200.7.45:/root/ 
+scp -P1122  rabbitmq-management.tar root@10.200.7.45:/root/ 
+ssh  root@10.200.7.45 
+ssh  root@10.200.7.45 -p 1122
+cd Downloads
+ls -la
+git clone https://gitee.com/ptu706/k8s_ptu_internal.git
+scp -r k8s_ptu_internal root@10.200.7.57
+scp -r k8s_ptu_internal root@10.200.7.57:/root/
+ls -la
+wezterm imgcat \{BAEDDFD4-0BEB-576F-C0FB-01608829D13A\}.jpg
+ls -la
+cd Downloads
+ls -la
+wezterm imgcat \{BAEDDFD4-0BEB-576F-C0FB-01608829D13A\}.jpg
+q
+ls -la
+ls -la
+rm -rf k8s_ptu_internal
+ls -la
+cd ~/Code
+ls -la
+ls -la
+lls -la
+lls -la
+ls -la
+ls -la
+ls -la
+ls -la
+ls -la
+ls -la
+ls -la
+ls -la
+exit
+cd .config
+ls -la
+cd zsh
+ls -la
+cd plugins
+ls -la
+git clone https://github.com/sunlei/zsh-ssh.git
+ls -la
+pwd
+cd zsh-ssh
+ls -l
+cd ../
+cd ../
+cd ../
+ls -la
+cd zsh
+nvim .zshrc
+source .zshrc
+nvim .zshrc
+cd plugins
+ls -la
+rm -rf zsh-ssh
+ls -la
+cd ../
+cd ~
+ls -la
+cd .ssh
+ls -la
+cat known_hosts
+ls -la
+cd ~/.config
+ls -la
+cd zsh
+source .zshrc
+ls -la
+ls -la
+cd ../
+ls -la
+cd wezterm
+ls -la
+nvim wezterm.lua
+nvim wezterm.lua
+nvim wezterm.lua
+nvim wezterm.lua
+code wezterm.lua
+btop
+ls -la
+exit
+timeshift-gtk
+sudo timeshift-gtk
+cat /etc/fstab
+ls -la
+exit
+staartx
+startx
+btop
+pacman -Syyu
+sudo pacman -Syyu
+poweroff
+btop
+cd /etc
+cat hosts
+systemctl start docker
+xbacklight -inc 10
+xbacklight -set 50
+sudo xbacklight -set 50
+sudo pacman -Rns xorg-xbacklight
+pacman -S light
+sudo  pacman -S light
+light -S 50
+sudo light -S 50
+sudo light -S 70
+sudo light -S 75
+light -h
+light -v
+cd Videos
+mv 2023-06-04\ 01-18-46.mkv
+mpv 2023-06-04\ 01-18-46.mkv
+btop
+htop
+cd ../.config
+cd cava
+ls -al
+mv config config.bk .bak
+mv config config.bk.bk
+nvim config
+cava
+ssh root@10.200.7.60
+nmcli connection
+nmcli device wifi hotspot ifname wlp0s20f3 con-name Young ssid Young password 147369..
+nmcli connection
+nmcli connection up Young
+nmtui
+ls -la
+cd /etc
+ls -la
+ls -la
+vim resolv.conf
+pacman -S dnsmasq
+sudo pacman -S dnsmasq
+cd NetworkManager
+ls -la
+cd conf.d
+ls -la
+nvim dns.conf
+sudo nvim dns.conf
+nmcli general reload
+sudo nmcli general reload
+cd ../
+ls -la
+vim dnsmasq.d
+cd dnsmasq-shared.d
+ls -la
+cd ../
+ls -la
+vim NetworkManager.conf
+cd system-connections
+ls -la
+sudo cd system-connections/
+sudo 
+su root
+cd ../
+nvim resolv.conf
+cd /run/NetworkManager
+LS -LA
+ls -la
+vim no-stub-resolv.conf
+vim no-stub-resolv.conf
+ls -la
+cd /etc/NetworkManager
+ls -la
+cd dnsmasq.d
+ls -la
+sudo nvim cache.conf
+dnsmasq --test --conf-file=/dev/null --conf-dir=/etc/NetworkManager/dnsmasq.d
+history
+nmcli connection up Young
+startx
+nm-tool|grep State|cut -f2 -d' ') == "connected" 
+reboot
+nmcli connection up Young
+sudo timeshift-gtk
+systemctl list-units -- type =service --state=running
+systemctl list-units --type=service --state=running
+cd /run
+cd systemd
+ll
+ls
+ls -la
+iptables
+
+sudo timeshift-gtk
+systemctl list-units -- type =service --state=running
+systemctl list-units --type=service --state=running
+cd /run
+cd systemd
+ll
+ls
+ls -la
+iptables
+
+startx
+drill example.com
+drill example.com
+drill example.com
+reboot
+ls -la
+cd /etc
+cat hosts
+cat host.conf
+ls -la
+cat resolv.conf
+systemctl start docker
+sudo systemctl start docker
+nmcli connection up Young
+nmcli connection up Young
+nmcli connection up Young
+history
+history -a
+history -a
+cd .config
+ls -la
+cd zsh
+ls -la
+cat .history
+vim .zshrc
+[200~systemctl list-units --type=service --state=running
+systemctl list-units --type=service --state=running\
+
+startx
+nvim
+exit
+tmux
+systemctl start docker
+ls -kla
+ls -la
+pacman -S tldr
+sudo pacman -S tldr
+tldr
+tldr docker
+tldr -u
+tldr docekr
+tldr tar
+tldr zathura
+tldr fzf
+tldr docker
+tldr kubectl
+neofetch
+dldr dmesg
+tldr nmcli
+ssh roo@10
+ssh roo@10.200.7.60
+ssh root@10.200.7.60
+ssh root@10.200.7.60
+ssh root@10.200.7.60
+ssh root@10.200.7.57 -p12
+ssh root@10.200.7.60
+yay -S tty-clock
+btop
+ssh root@10.200.7.60
+tty-clock
+tty-clock -v
+tty-clock -h
+tty-clock -b
+tty-clock -S
+tty-clock -c -C 7 -r -f "%A, %B %d"
+tty-clock -c 
+tty-clock -c -C 7 -r -f "%A, %B %d"
+tty-clock -c 
+cava
+tty-clock -c
+tty-clock -h
+tty-clock -i
+tty-clock -c -T
+tty-clock -c 
+tty-clock -c -C7
+tty-clock -c -C6
+tty-clock -c -C65
+tty-clock -c -C654
+tty-clock -c -C3
+tty-clock -c -C2
+tty-clock -c -C1
+tty-clock -c -u
+tty-clock -c -b
+tty-clock -c -B
+tty-clock -c -s
+tty-clock -c -S
+tty-clock -c -b
+tty-clock -c -x
+tty-clock -c -x -s
+tty-clock -c  -s
+tty-clock -c
+exit
+tty-clock
+tty-clock -h
+tty-clock -x
+ls -la
+tmux
+tty-clock -c  -s
+ranger
+tty-clock -c  -s
+ssh root@10.200.7.60
+tty-clock -c  -s
+sysctl
+ranger
+ssh root@10.200.7.57 -p 1
+ssh root@10.200.7.57 -p 12
+ssh root@10.200.7.57 -p 13
+ssh root@10.200.7.57 -p 13
+wezterm connect ptu
+wezterm connect ptu
+tty-clock -c  -s
+ls -la
+cd .config
+ls -la
+ls -la
+cd wezterm
+ls -l
+nvim wezterm.lua
+cd ../
+cd ../
+ssh root@10.200.7.57 -p 12
+ssh root@10.200.7.57 -p 12
+ls -la
+staartx
+startx
+cd .config
+cd wezterm
+ls -la
+nvim wezterm.lua
+nvim wezterm.lua
+reboot
+ssh root@10.200.7.60
+ls -la
+ls -la
+neofetch
+btop
+wifilist
+wifilist
+ls -la
+cd .config
+ls -la
+cd zsh
+ls -la
+vim .alias
+nvim .alias
+clock
+clock -h
+cd .config
+cd zsh
+nvim .alias
+clock
+startx
+reboot
+systemctl start docker
+cd .config
+ls -la
+cd ../
+ls -la
+cd Code
+ls -la
+cd gpmall
+ls -la
+cd yaml
+ls -la
+nvim mysql-svc.yaml
+nvim mysql-deployment.yaml
+nvim mysql-pv.yaml
+nvim mysql-pvc.yaml
+nvim mysql-pv.yaml
+nvim mysql-pvc
+nvim mysql-pvc.yaml
+nvim mysql-svc.yaml
+nvim mysql-deployment.yaml
+ssh root@10.200.7,60
+ssh root@10.200.7,.60
+ssh root@10.200.7.60
+startx
+staetx
+startx
+systemctl start docker
+hostory
+history
+startx
+ssh root@10.200.7,.60
+ssh root@10.200.7.60
+ls- la
+ls -la
+ssh root@10.200.7.57
+ssh root@10.200.7.57
+ssh root@10.200.7.57
+ssh root@10.200.7.57
+ssh root@10.200.7.163 -p 15622
+ssh root@10.200.7.163 -p 19422
+cd Code
+cd gpmall
+ls -la
+histroy
+history
+scp -P19422  rabbitmq-management.tar  root@10.200.7.163:/root/
+scp -P13722  rabbitmq-management.tar  root@10.200.7.230:/root/
+ssh root@10.200.7.230 -p13722
+ssh root@10.200.7.163 -p 15622
+ssh root@10.200.7.163 -p 19422
+ls -la
+cd Code
+cd gpmall
+cd yaml
+ls -la
+nvim rabbitmq-deployment.yaml
+ls -la
+exit
+cd Code
+cd gpmall
+cd yaml
+ls -la
+nvim gpmall-shopping-svc.yaml
+ls -la
+exit
+ssh root@10.200.7.57
+clock
+tldr ssh-copy-id
+ls -la
+ssh-copy-id  .ssh/id_rsa.pub root@39.108.190.138
+ssh-copy-id -i  .ssh/id_rsa.pub root@39.108.190.138
+ssh-copy-id -i ~/.ssh/id_rsa.pub root@39.108.190.138
+ssh-copy-id -i ~/.ssh/id_rsa.pub root@39.108.190.138
+cd .ssh
+ls -la
+vim known_hosts
+ssh-copy-id -i ~/.ssh/id_rsa.pub root@39.108.190.138
+ssh root@39.108.190.138
+cat .ssh/id_rsa.pub
+cat .ssh/id_rsa
+\:Q
+ls -la
+ssh root@39.108.190.138
+cd Code/gpmall
+ls -la
+cd yaml
+nvim comment-provider-deployment.yaml
+exit
+cd Code
+cd gpmall
+ls -la
+cd yaml
+ls -la
+nvim gpmall-shopping-svc.yaml
+ssh root@39.108.190.138
+ssh root@10.200.7.57
+ssh root@10.200.7.60
+ssh root@10.200.7.60
+ssh root@10.200.7.57
+ssh root@10.200.7.57
+code Code/gpmall/yaml
+ssh root@10.200.7.57
+ssh root@10.200.7.57
+ssh root@10.200.7.57
+ssh root@10.200.7.57 -p 13
+ssh root@10.200.7.57 -p 13
+cd Code
+ls -la
+scp -r -P12 root@10.200.7.87:/root/
+scp -r -P12 gpmall  root@10.200.7.87:/root/
+scp -r -P12 gpmall  root@10.200.7.57:/root/
+cd gpmall
+scp kibana-6.6.1.tar root@10.200.7057
+scp kibana-6.6.1.tar root@10.200.7057:/root/
+scp kibana-6.6.1.tar root@10.200.7.57:/root/
+scp kibana-6.6.1.tar root@10.200.7.57:/root/
+ls -ka
+cd yaml
+vim es-deployment.yaml
+ssh root@10.200.7.57 -p12
+ssh root@10.200.7.57 -p12
+ssh root@10.200.7.57 -p12
+ssh root@10.200.7.57 -p12
+ssh yangzhihua@10.200.7.57 -p12
+ssh root@10.200.7.57 -p12
+ssh root@10.200.7.57 -p12
+cd Documents
+ls -la
+cd QQ
+ls -la
+unar å®ƒ¾è·µ.zip
+cd å®ƒ¾è·µ
+unar 40042.zip
+nvim 
+nvim
+cd Code
+ls -la
+cd ../
+cd Downloads
+nvim xinitrc
+nvim xinitrc
+ranger
+cd Code
+code gpmall
+code k8s
+uname -A
+uname -a
+neofetch
+pacman -Syyuu
+sudo pacman -Syyuu
+ssh yangzhihua@10.200.7.57 
+ssh root@10.200.7.57 
+ssh root@10.200.7.57 -p11
+ssh root@10.200.7.57 -p11
+ssh root@10.200.7.57 -p12
+ssh root@10.200.7.57 -p13
+ssh root@10.200.7.57 -p14
+ssh root@10.200.7.57 -p15
+ls -la-
+cd Code
+lls -la
+ls -la
+cd gpmall
+ls -la
+vim root@10.200.7057
+rm root@10.200.7057
+ls -la
+cd ../
+ls -la
+LS -LA
+cd Code
+ls -la
+scp -r k8s root@10.200.7.57:/root/
+scp -r -P11 gpmall root@10.200.7.87:/root/
+scp -r -P11 gpmall root@10.200.7.57:/root/
+scp -r -P11 gpmall.sql root@10.200.7.57:/root/
+huawei12#$
+ssh root@10.200.7.57 -p15
+ssh root@10.200.7.57 -p14
+ssh root@10.200.7.57 -p11
+ssh root@10.200.7.57 -p13
+ssh root@10.200.7.57 -p12
+ssh root@10.200.7.57 -p11
+ls -la
+cd Code
+ls -la
+nvim 1.sh
+ssh root@10.200.7.57 -p12
+ls -la
+cd Code
+ls -la
+cd gpmall
+ls -la
+scp kibana-6.6.1.tar root@10.200.7.57:/root/
+ansible all  -m copy -a "src=/root/kibana-6.6.1.tar dest=/root/"
+cd Code/gpmall
+ls -la
+scp rabbitmq-management.tar root@10.200.7.57:/root/
+ssh root@10.200.7.60
+ssh root@10.200.7.57 -p12
+ssh root@10.200.7.57
+ssh root@10.200.7.57
+ssh root@10.200.7.57
+ls -la
+vim root@10.200.60
+ssh root@10.200.7.60
+ssh root@10.200.7.57 -p11
+ssh root@10.200.7.57 -p11
+ssh root@10.200.7.57 -p11
+ssh root@10.200.7.57 -p11
+ssh root@10.200.7.57 -p11
+ssh root@10.200.7.57 -p11
+startx
+code Code/gpmall
+btop
+poweroff
+cd Code
+cd gpmall
+ls -la
+scp -P1111 rabbitmq-management.tar root@10.200.7.143:/root/
+ssh root@10.200.7.57
+yay -Syyuu
+yay -S ttf-jetbrains-mono-nerd
+yay -S ttf-hack-nerd
+ssh root@10.200.7.143 -p2222
+ssh root@10.200.7.143 -p1111
+ssh root@10.200.7.143 -p2222
+ssh root@10.200.7.143 -p2222
+startx
+reboot
+systemctl start docker
+yay -S discord
+yay -S discord
+thunar
+light
+clock
+tmux
+cava
+cava
+ssh root@10.200.7.143 -p2222
+yay -S ttf-dejavu-nerd
+yay -S exercism-bin
+exercism version
+cd .config
+ls -la
+startx
+poweroff
+tmux split-window
+cava
+cava
+clock
+exercism configure --token=<your-api-token>
+exercism configure --token=b4c6080f-79b9-4015-85be-7b100053bebf
+exercism -w
+exercism -t
+exercism help
+ls -la
+exercism exercism configure -w=/home/Hua/Code/exercism
+exercism  configure -w=/home/Hua/Code/exercism
+cd .config/
+cd exercism
+ls -la
+nvim user.json
+exercism download --exercise=hello-world --track=go
+thunar
+ls -la
+cd Code
+ls -la
+code exercism
+sudo light -S 85
+systemctl start docker
+cd /dev
+ls -la
+sudo pacman -S ntfs-3g
+ls -la
+cd /dev
+ls -la
+ls -la
+lsblk
+cd ../
+ls -la
+cd mnt
+ls -la
+mkdir USB
+sudo mkdir USB
+ls -la
+mount /dev/sda /mnt/USB
+sudo mount /dev/sda /mnt/USB
+sudo mount /dev/sda /mnt/USB
+cd /mnt
+ls -la
+cd USB
+ls -la
+thunar
+umount /mnt/USB
+sudo umount /mnt/USB
+sudo umount /mnt/USB
+cd /
+sudo umount /mnt/USB
+sudo umount /mnt/USB
+startx
+df -hT
+btop
+systemctl start docker
+microsoft-edge-stable
+exercism submit hello_world.go
+exercism submit hello_world
+cd go
+cd hello-world
+exercism submit hello_world.go
+exercism submit hello_world.go
+exercism submit hello_world.go
+cd /mnt/USB
+ls -la
+exit
+exercism download --exercise=lasagna --track=go
+cd Documents
+cd QQ/å®ƒ¾è·µ
+cd ..
+ls -la
+unar 2023å¹´JAVAåºƒ´çƒ´¨å¼€åƒ¯ƒ±ï¼ƒ¨ä¸­çº§ï¼ƒ©ç¬¬äºƒ¬æ¬ƒåƒ¥¨åƒ»½ç»ƒ¿è€ƒ£\ åƒ§ƒ¦è€ƒ£è¯.zip
+cd 2023å¹´JAVAåºƒ´çƒ´¨å¼€åƒ¯ƒ±ï¼ƒ¨ä¸­çº§ï¼ƒ©ç¬¬äºƒ¬æ¬ƒåƒ¥¨åƒ»½ç»ƒ¿è€ƒ£\ åƒ§ƒ¦è€ƒ£è¯
+zathura è®¸æ¸ƒ¥åƒ½ƒº\(254230016000000000000055\)-JAVAåºƒ´çƒ´¨å¼€åƒ¯ƒ±èƒ¬ä¸ƒºæƒª€èƒ£½ç­ƒ©çº§è¯ä¹¦ï¼ƒ¨ä¸­çº§ï¼ƒ©åƒ§ƒ¦è€ƒ£è¯.pdf
+zathura æƒ½¨æ±ƒ©åƒ¿ƒ®\(254230016000000000000021\)-JAVAåºƒ´çƒ´¨å¼€åƒ¯ƒ±èƒ¬ä¸ƒºæƒª€èƒ£½ç­ƒ©çº§è¯ä¹¦ï¼ƒ¨ä¸­çº§ï¼ƒ©åƒ§ƒ¦è€ƒ£è¯.pdf
+cd ../
+ls -la
+unar 2023å¹´06æƒ¼ƒ¨Webåƒ©ƒ­ç«¯å¼€åƒ¯ƒ±èƒ¬ä¸ƒºæƒª€èƒ£½ç­ƒ©çº§è¯ä¹¦è€ƒ£è¯ƒµ\ åƒ§ƒ¦è€ƒ£è¯.zip
+cd 2023å¹´06æƒ¼ƒ¨Webåƒ©ƒ­ç«¯å¼€åƒ¯ƒ±èƒ¬ä¸ƒºæƒª€èƒ£½ç­ƒ©çº§è¯ä¹¦è€ƒ£è¯ƒµ\ åƒ§ƒ¦è€ƒ£è¯
+zathura æƒ½¨å¿ƒ·åƒ­ƒ®\(002230001000000000007128\)-Webåƒ©ƒ­ç«¯å¼€åƒ¯ƒ±èƒ¬ä¸ƒºæƒª€èƒ£½ç­ƒ©çº§è¯ä¹¦ï¼ƒ¨ä¸­çº§ï¼ƒ©åƒ§ƒ¦è€ƒ£è¯.pdf
+zathura å¼ƒ€éƒ´ƒ°\(002230001000000000007170\)-Webåƒ©ƒ­ç«¯å¼€åƒ¯ƒ±èƒ¬ä¸ƒºæƒª€èƒ£½ç­ƒ©çº§è¯ä¹¦ï¼ƒ¨ä¸­çº§ï¼ƒ©åƒ§ƒ¦è€ƒ£è¯.pdf
+cd ../
+cd ../
+thunar
+lsblk
+mount /dev/sda1 /mnt/USB
+sudo mount /dev/sda1 /mnt/USB
+ls -la
+tmux
+cd QQ/2023å¹´JAVAåºƒ´çƒ´¨å¼€åƒ¯ƒ±ï¼ƒ¨ä¸­çº§ï¼ƒ©ç¬¬äºƒ¬æ¬ƒåƒ¥¨åƒ»½ç»ƒ¿è€ƒ£\ åƒ§ƒ¦è€ƒ£è¯
+mv æƒ½¨æ±ƒ©åƒ¿ƒ®\(254230016000000000000021\)-JAVAåºƒ´çƒ´¨å¼€åƒ¯ƒ±èƒ¬ä¸ƒºæƒª€èƒ£½ç­ƒ©çº§è¯ä¹¦ï¼ƒ¨ä¸­çº§ï¼ƒ©åƒ§ƒ¦è€ƒ£è¯.pdf /mnt/USB
+sudo mv æƒ½¨æ±ƒ©åƒ¿ƒ®\(254230016000000000000021\)-JAVAåºƒ´çƒ´¨å¼€åƒ¯ƒ±èƒ¬ä¸ƒºæƒª€èƒ£½ç­ƒ©çº§è¯ä¹¦ï¼ƒ¨ä¸­çº§ï¼ƒ©åƒ§ƒ¦è€ƒ£è¯.pdf /mnt/USB
+ cp æƒ½¨æ±ƒ©åƒ¿ƒ®\(254230016000000000000021\)-JAVAåºƒ´çƒ´¨å¼€åƒ¯ƒ±èƒ¬ä¸ƒºæƒª€èƒ£½ç­ƒ©çº§è¯ä¹¦ï¼ƒ¨ä¸­çº§ï¼ƒ©åƒ§ƒ¦è€ƒ£è¯.pdf /mnt/USB
+ls -la
+cd /mnt/USB
+ls -la
+exit
+sudo umount /dev/sda1 
+lsblk
+df -hT
+cd /mnt/USB
+ls -la
+exit
+cd Documents/QQ
+ls -la
+rm -rf 2023å¹´JAVAåºƒ´çƒ´¨å¼€åƒ¯ƒ±ï¼ƒ¨ä¸­çº§ï¼ƒ©ç¬¬äºƒ¬æ¬ƒåƒ¥¨åƒ»½ç»ƒ¿è€ƒ£\ åƒ§ƒ¦è€ƒ£è¯
+unar 2023å¹´JAVAåºƒ´çƒ´¨å¼€åƒ¯ƒ±ï¼ƒ¨ä¸­çº§ï¼ƒ©ç¬¬äºƒ¬æ¬ƒåƒ¥¨åƒ»½ç»ƒ¿è€ƒ£\ åƒ§ƒ¦è€ƒ£è¯.zip
+cd 2023å¹´06æƒ¼ƒ¨Webåƒ©ƒ­ç«¯å¼€åƒ¯ƒ±èƒ¬ä¸ƒºæƒª€èƒ£½ç­ƒ©çº§è¯ä¹¦è€ƒ£è¯ƒµ\ åƒ§ƒ¦è€ƒ£è¯
+zathura èƒ´ƒè¯ƒ·æ¶µ\(002230001000000000007106\)-Webåƒ©ƒ­ç«¯å¼€åƒ¯ƒ±èƒ¬ä¸ƒºæƒª€èƒ£½ç­ƒ©çº§è¯ä¹¦ï¼ƒ¨ä¸­çº§ï¼ƒ©åƒ§ƒ¦è€ƒ£è¯.pdf
+zathura èƒ´ƒåƒ­ƒºè¾¾\(002230001000000000007212\)-Webåƒ©ƒ­ç«¯å¼€åƒ¯ƒ±èƒ¬ä¸ƒºæƒª€èƒ£½ç­ƒ©çº§è¯ä¹¦ï¼ƒ¨ä¸­çº§ï¼ƒ©åƒ§ƒ¦è€ƒ£è¯.pdf
+ls -la
+cd Code
+code exercism
+lls -la
+ls -la
+cd .vscode
+ls -la
+vim argv.json
+cd ../
+cd Code
+code 1.sh
+code gpmall
+ls -la
+cd ../
+ls -la
+code .vscode
+cd .config
+ls -la
+code Code
+code
+thunar
+thunar
+sudo make clean install 
+sudo make clean install 
+cd .local
+ls -la
+code dwm
+xprop
+ls -la
+code
+xprop
+sudo make clean install 
+btop
+sudo pacman -Rns $(pacman -Qtdq)
+neofetch
+neofetch
+sudo timeshift-gtk
+sudo timeshift-gtk
+lsblk
+
+lsblk
+
+yay -S wemeet-bin
+yay -S wemeet-bin
+pavucontrol
+cd .config
+ls -la
+cd /usr/share
+ls -la
+cd ~/.local/share
+ls -la
+cd wemeetapp
+ls -la
+cd QtWebEngine
+ls -la
+cd ~
+yay -S netease-cloud-music
+yay -Rns netease-cloud-music
+neofetch
+netease-cloud-music
+sudo make clean isntall 
+sudo make clean install 
+code
+xprop
+ls -la
+cd /mou
+cd /mnt
+cd USB
+LS -LA
+ls -la
+cd ..
+cd ~
+startx
+startx
+startx
+startx
+startx
+poweroff
+ls -la
+yay -Rns wemeet-bin
+cd .local
+cd dwm
+nvim config.def.h
+sudo make clean install 
+cd .local/share
+ls -la
+pavucontrol
+cd .local
+ls -la
+cd dwm
+nvim config.def.h
+sudo make clean install
+cava
+clock
+systemctl start docker
+clock
+btop
+btop
+clock
+clock
+cd ../
+cd ..
+cd .config
+ls -la
+cd ..
+cd Videos
+ls -la
+rm 2023-06-04\ 01-18-46.mkv
+rm 2023-06-09\ 20-10-03.mkv
+ls -la
+ssh root@10.200.7.57
+clear
+ssh root@10.200.7.57 -p12
+clear
+ssh root@10.200.7.57 -p11
+cd Videos
+mpv 2023-06-09\ 20-17-44.mkv
+ssh root@10.200.7.57 -p11
+exit
+cd Videos
+ls -la
+mpv 2023-06-09\ 20-17-09.mkv
+rm 2023-06-09\ 20-17-09.mkv
+mpv 2023-06-09\ 20-17-44.mkv
+cd /etc
+cds ssh
+cd ssh
+ls -la
+nvim sshd_config
+sudo nvim sshd_config
+cd Downloads
+ls -la
+code 1+Xè€ƒ£è¯ƒµWebåƒ©ƒ­ç«¯çƒ¼ƒ¿éƒ‚ƒ¸\&æƒ€·éƒ‚ƒ¸
+ls -la
+ls -la
+btop
+btop
+ls -la
+cd .vscode
+ls -la
+cd extensions
+ls -la
+cd techer.open-in-browser-2.0.0
+ls -la
+cd out
+ls -la
+nvim config.js
+nvim config.js
+nvim config.js
+nvim config.js
+nvim config.js
+ls -la
+vim config.js.map
+vim extension.js
+vim index.js
+vim util.js
+nvim config.js
+xdg-open google-chrome-stable
+xdg-open google-chrome-stable
+cd ../
+cd ../
+code techer.open-in-browser-2.0.0
+code ~/Downloads/1+Xè€ƒ£è¯ƒµWebåƒ©ƒ­ç«¯çƒ¼ƒ¿éƒ‚ƒ¸\&æƒ€·éƒ‚ƒ¸
+ls -la
+cd ~/Code
+ls -la
+code exercism
+ls -la
+ssh root@39.108.190.138 
+exit
+pacman -S lolcat
+sudo pacman -S lolcat
+sudo pacman -S lolcat
+btop
+btop
+clock
+cd Downloads
+ls -la
+cd ../
+ranger
+clock
+ls -la
+yay -Yc
+sudo pacman -S smartmontools
+sudo smartctl -A /dev/nvme0n1 
+sudo smartctl -A /dev/nvme0n1  -h
+sudo smartctl -A -H  /dev/nvme0n1  
+sudo smartctl -A -H  /dev/nvme1
+sudo smartctl --all  /dev/nvme1
+startx
+startx
+sudo pacman -S pipewire-pulse pipewire-alsa pipewire-jack
+obs
+poweroff
+startx
+reboot
+sudo timeshift-gtk
+obs
+cd Videos
+mpv 2023-06-10\ 19-52-53.mkv
+rm 2023-06-10\ 19-52-53.mkv
+light -S 75
+v
+clock
+pacman -S libva-utils
+sudo pacman -S libva-utils
+btop
+vainfo
+vainfo
+systemctl start docker
+vainfo
+lspci -k | grep -A 2 -E "(VGA|3D)"
+sudo pacman -Rns libva-utils
+sudo pacman -S vdpauinfo
+vdpauinfo
+sudo pacman -S libva-utils
+vdpauinfo
+sudo pacman -Rns libva-utils
+pacman -S libvdpau
+sudo pacman -S libvdpau
+vdpauinfo
+vdpauinfo
+find / -name libvdpau_va_gl.so\
+
+sudo vdpauinfo
+sudo find / -name libvdpau_va_gl.so\
+
+pacman -S libva-vdpau-driver
+sudo pacman -S libva-vdpau-driver
+pacman -S libvdpau-va-gl
+sudo pacman -S libvdpau-va-gl
+vainfo
+clear
+ssh root@10.200.7.57 -p 11
+vdpauinfo
+pacman -Rns libvdpau-va-gl
+sudo pacman -Rns libvdpau-va-gl
+sudo pacman -Rns vdpauinfo
+sudo pacman -Rns vdpauinfo
+journalctl -b --grep='vdpau | dri driver'
+cd /var
+cd log
+ls -la
+cat Xorg.0.log
+grep -iE 'vdpau | dri driver' xorg_log_file
+grep -iE 'vdpau | dri driver' Xorg.0.log
+cd ~/Videos
+ls -la
+rm 2023-06-10\ 21-31-05.mkv
+rm 2023-06-10\ 21-53-53.mkv
+clear 
+cd ..
+ssh root@10.200.7.57 -p11
+clear
+ssh root@10.200.7.57 -p11
+clear
+ssh root@10.200.7.57 -p11
+sudo vdpauinfo
+vdpauinfo
+sudo pacman -Rns libvdpau
+cd Videos
+ls -la
+rm 2023-06-09\ 20-17-44.mkv
+mpv 2023-06-10\ 21-31-05.mkv
+pacman -Rns libva-utils
+sudo pacman -Rns libva-utils
+grep -iE 'vdpau | dri driver' xorg_log_file
+sudo grep -iE 'vdpau | dri driver' xorg_log_file[A
+sudo grep -iE 'vdpau | dri driver' xorg_log_file
+journalctl -b --grep='vdpau | dri driver'
+journalctl -b --grep='vdpau | dri driver'
+cd ~
+cat .xinitrc
+cd Videos
+btop
+rm 2023-06-10\ 21-54-10.mkv
+ls -la
+ls -la
+rm 2023-06-10\ 21-54-47.mkv
+rm 2023-06-10\ 21-55-08.mkv
+btop
+mpv 2023-06-10\ 21-58-01.mkv
+rm 2023-06-10\ 21-57-10.mkv
+rm 2023-06-10\ 21-58-01.mkv
+rm 2023-06-10\ 22-00-54.mkv
+ls -la
+mpv 2023-06-10\ 22-01-11.mkv
+btop
+startx
+pacman -S xdg-desktop-portal
+sudo pacman -S xdg-desktop-portal
+sudo pacman -S xdg-desktop-portal
+reboot
+pacman -S xdg-desktop-portal
+sudo pacman -S xdg-desktop-portal
+yay -S xdg-desktop-portal
+pacman -S xdg-desktop-portal
+sudo pacman -S xdg-desktop-portal
+exit
+startx
+reboot
+cd /usr/share
+ls -la
+cd xdg-desktop-portal
+ls -a
+cd portals
+ls -la
+vim gnome-shell.portal
+vim gtk.portal
+systemctl --user show-environment
+thunar
+thunar
+
+
+reboot
+startx
+startx
+btop
+sudo pacman -Rns xdg-desktop-portal
+reboot
+systemctl start docker
+chrome
+cd .config
+ls -la
+btop
+ls -la
+cd wezterm
+ls -la
+nvim wezterm.lua
+pipewire --version
+cd ~
+htop
+ssh root@10.200.7.57
+startx
+poweroff
+cd ci
+cd Videos
+ls -la
+ls -lah
+startx
+reboot
+poweroff
+startx
+poweroff
+startdocker
+exercism download --exercise=hello-world --track=java
+thunar
+thunar
+thunar
+thunar
+pacman -Syyuu
+sudo pacman -Syyuu
+ssh root@10.200.7.57 -p11
+ssh root@10.200.7.57 -p13
+ssh root@10.200.7.57 -p12
+ssh root@10.200.7.57 -p15
+cd Videos
+ls -la
+cp 2023-06-10\ 22-01-11.mkv bk.mkv
+mpv 2023-06-10\ 22-01-11.mkv -o 2023-06-10\ 22-01-11.mp4
+mpv 2023-06-10\ 22-01-11.mp4
+btop
+cd ../
+cd Code
+ls -la
+scp -P11 -r gpmall   root@10.200.7.57:/data/xianglie
+ssh root@10.200.7.57
+ssh root@10.200.7.57 -p11
+ssh root@10.200.7.57 -p14
+ssh root@10.200.7.57 
+ssh root@10.200.7.57 -p 11
+ls -la
+ssh root@10.200.7.57 -p 11
+startdocker
+thunar
+btop
+clolock
+clock
+ssh root@10.200.7.57 -p11
+cd Code
+history
+ scp -P11 -r gpmall   root@10.200.7.57:/data/yaochanglin
+pacman -S ffmpeg
+sudo pacman -S ffmpeg
+clock
+cd Code
+ls -la
+cd gpmall
+ls -la
+cd yaml
+vim mysql-deployment.yaml
+cd ../../..
+cd .config
+ls -la
+yay -S netease-cloud-music
+
+clock
+cd Code
+ls -la
+cd gpmall
+ls -la
+cd yaml
+vim mysql-deployment.yaml
+cd ../../..
+cd .config
+ls -la
+yay -S netease-cloud-music
+
+netease-cloud-music
+yay -Rns netease-cloud-music
+pacman -Syyuu
+sudo pacman -Syyuu
+pacman -Rns kguiaddons
+sudo pacman -Rns kguiaddons
+sudo pacman -Rns  kitemviews
+sudo pacman -Rns  python
+pacman -Syyuu
+sudo pacman -Syyuu
+startx
+ssh root@10.200.7.57 -p 11
+go test -v --bench . --benchmem
+cd java
+cd hello-world
+exercism submit src/main/java/Greeter.java
+exercism submit src/main/java/Greeter.java
+startx
+ssh root@10.200.7.57 -p 11
+startdocker
+cd Downloads
+cd Book
+ls -la
+who
+latest
+last
+startdocker
+cd Videos
+mpv 2023-06-10\ 22-01-11.mkv
+cd Videos
+ls -la
+ls -la -h
+ls -la
+ssh root@10.200.7.57 -p 11
+cd Downloads
+ls -la
+wbtop
+btop
+clock
+cd ..
+cd Videos
+ls -la -h
+yay -S ttf-jetbrains-mono-nerd
+cd ..
+cd .config
+ls -la
+cd wezterm
+nvim wezterm.lua
+neofetch
+nvim wezterm.lua
+yay -Rns ttf-jetbrains-mono-nerd
+yay -S ttf-jetbrains-mono-nerd
+ranger
+startx
+pacman -Syyuu
+sudo pacman -Syyuu
+yay -S ttf-lxgw-wenkai
+reboot
+obs
+startdocker
+sudo pacman -S linux-headers 
+pacman -S nvidia-dkms  nvidia-settings lib32-nvidia-utils 
+sudo pacman -S nvidia-dkms  nvidia-settings lib32-nvidia-utils 
+cd /etc
+defaults
+sudo vim default/grub 
+cd ../
+grub-mkconfig -o /boot/grub/grub.cfg
+startx
+history
+startx
+exit
+startx
+reboot
+nvidia-smi
+sudo vim /etc/default/grub 
+startx
+exit
+startx
+nvidia-smi
+obs
+poweroff
+nvidia-smi
+obs
+poweroff
+pacman -Rns libva-vdpau-driver
+sudo pacman -Rns libva-vdpau-driver
+obs
+sudo pacman -S libva-vdpau-driver
+obs
+startx
+poweroff
+nvidia-smi
+startdocker
+sudo pacman -S nerd-fonts-jetbrains-mono 
+sudo pacman -S nvidia-utils 
+startx
+cd Videos
+mpv --hwdec=auto 2023-06-10\ 22-01-11.mkv
+pacman -S libva-utils
+sudo pacman -S libva-utils
+vainfo
+cd ../
+vim .xinitrc
+pacman -Rns intel-media-driver
+sudo pacman -Rns intel-media-driver
+reboot
+nvidia-smi
+sudo pacman -Qs | grep int
+sudo pacman -Qs | grep intel
+sudo pacman -Q | grep intel
+sudo pacman -S nvidia-vaapi-driver
+sudo pacman -Rns libva-vdpau-driver
+sudo pacman -S nvidia-vaapi-driver
+startdocker
+cd Videos
+mpv --hwdec=auto 2023-06-10\ 22-01-11.mkv
+startx
+sudo pacman -Qs | grep intel
+sudo pacman -q | grep intel
+sudo pacman -qa | grep intel
+sudo pacman -QS | grep inte
+sudo pacman -Qs | grep inte
+vainfo
+vainfo -a
+vim .xinitrc
+cd /dev/disk
+cd ../dir
+cd ../dri
+ls -la
+reboot
+startx
+vim .xinitrc
+vim .xinitrc
+reboot
+vainfo
+vainfo -a
+startdocker
+ vainfo --display drm --device /dev/dri/renderD128 
+startx
+vainfo
+vim .xinitrc
+opweroff
+poweroff
+startdocker
+vainfo
+nvidia-smi
+nvidia-smi
+nvidia-smi
+vdpauinfo
+pacman -S vdpauinfo
+sudo pacman -S vdpauinfo
+vdpauinfo
+sudo pacman -Rns vdpauinfo
+grep -iE 'vdpau | dri driver' xorg_log_file
+grep -iE 'vdpau | dri driver' ~/.local/share/xorg/Xorg.0.log
+vim .xinitrc
+vim .xinitrc
+pacman -Rns nvidia-vaapi-driver-git
+sudo pacman -Rns nvidia-vaapi-driver-git
+yay -S libva-nvidia-driver
+vim .xinitrc
+ls -la /usr/lib/vdpau/
+grep -iE 'vdpau | dri driver' ~/.local/share/xorg/Xorg.0.log
+nvidia-settings
+nvidia-smi
+mpv --hwdec=auto 2023-06-10\ 22-01-11.mkv
+cd Videos
+mpv --hwdec=auto 2023-06-10\ 22-01-11.mkv
+grep -iE 'vdpau | dri driver' ~/.local/share/xorg/Xorg.0.log
+nvtop
+pacman -S nvtop
+sudo pacman -S nvtop
+nvtop
+nvtop
+neofetch
+pacman -S intel-media-driver
+sudo pacman -S intel-media-driver
+nvtop
+nvtop
+btop
+neofetch
+nvim
+docker ps
+neofetch
+nvtop
+nvtop
+cd Videos
+ls -la
+rm 2023-06-26\ 13-08-29.mkv
+rm 2023-06-26\ 12-41-33.mkv
+nvtop
+nvidia-smi
+startx
+btop
+nvtop
+nvidia-settings
+btop
+cd Videos/\ 
+cd Videos
+mpv 2023-06-27\ 01-49-16.mkv
+mpv 2023-06-27\ 01-49-16.mkv
+rm 2023-06-27\ 01-49-16.mkv
+ls -la
+inconfig
+ip a
+pacman -Syyuu
+sudo pacman -Syyuu
+poweroff
+startdocker
+btop
+btop
+ls -la
+cd /etc
+ls -la
+cd ../
+ranger
+btop
+ranger
+cd Downloads
+cd Book
+zathura éƒ§ƒ¬ç¨ƒ«çƒ‚ƒ±ä¹¦ç³»ï¼ƒ¨åƒ°ƒ¤å­¦ç§ƒ±åƒ¯²ä¸ƒªçƒºƒ¤250ä¸ªéƒ§ƒ¬ç¨ƒ«çƒ‚ƒ±äºƒ«ä»¶ï¼7éƒ·¨å­¦ç§ƒ±çƒºƒ¤ç®€åƒ¯²ï¼åƒ¥¨çƒ°ƒ£çƒµƒ¥éƒ´€çƒ¹¾ä¸ƒ§åƒ¦ƒ¬ï¼ï¼ƒ©ï¼ƒºçƒ´ƒ¿çƒ©©å­¦ä¹ƒ«ä¹¦+æƒµ°å­¦ä¹ƒ«ä¹¦+å¤©æƒ¶ƒ§ä¹ƒ«ä¹¦+åƒ¬ƒ¶å­¦ä¹ƒ«ä¹¦+å¿ƒ£çƒ°ƒ¦å­¦ä¹ƒ«ä¹¦+å·¥ç¨ƒ«å­¦ä¹ƒ«...\ \(Z-Library\).epub
+zathura é«ƒ¸æƒµƒ¨ç¨ƒ«åºƒ¯åƒ±ƒ¸çƒºƒ¤45ä¸ªä¹ƒ€æƒ£¯æƒµƒ¯æƒ­·å¼€åƒ¯ƒ±ä¿®ç‚¼ä¹ƒ«éƒ³\ \(åƒ»¾çµç¨ƒ«åºƒ¯è®¾è®ƒä¸ƒ»ä¹¦\ 11\)\ \(äº¨çƒ©¹\(Andy\ Hunt\)\ etc.\)\ \(Z-Library\).epub
+zathura WebRTCéƒ¿³è§ƒ¦éƒ‚ƒ±å¼€åƒ¯ƒ±ï¼ƒºReact\ Flutter\ Goå®ƒ¾æƒ¨ƒ¸\ \(äºƒ‚å°ƒ±åƒ¦ƒ»\)\ \(Z-Library\).epub
+cd .sh
+cd .local
+ls -la
+cd share
+ls -la
+cd TelegramDesktop
+ls -la
+cd tdata
+ls -la
+ranger
+btop
+dtartx
+startx
+poweroff
+ranger
+startx
+startdocker
+sleep
+pacman -Syyuu
+sudo pacman -Syyuu
+sudo pacman -Syyuu
+poweroff
+startdocker
+telegram-desktop
+cd Downloads
+cd Telegram\ Desktop/ls -la
+cd Telegram\ Desktop
+ls -la
+mrm \#çƒ®©å¶å§ƒ°å§ƒ°\ \#HongKongDoll\ çƒ¬æ»ƒ\ \(2\).mp4
+rm \#çƒ®©å¶å§ƒ°å§ƒ°\ \#HongKongDoll\ çƒ¬æ»ƒ\ \(2\).mp4
+rm \#çƒ®©å¶å§ƒ°å§ƒ°\ \#HongKongDoll\ çƒ¬æ»ƒ.mp4
+ls -la
+pacman -Syyuu
+sudo pacman -Syyuu
+cd Downloads
+ls -la
+cd Telegram\ Desktop
+ls -la
+ls -la
+ls -la
+mpv é£ƒ®èƒª±éƒ»ª\ ç¬¬ä¸€è§ƒ¦è§ƒ²çƒ¨±çƒ¨±\ \#çƒ®©å¶å§ƒ°å§ƒ°\ \#HongKongDoll\ 2\ \(2\).mp4
+mpv é£ƒ®èƒª±éƒ»ª\ ç¬¬ä¸€è§ƒ¦è§ƒ²çƒ¨±çƒ¨±\ \#çƒ®©å¶å§ƒ°å§ƒ°\ \#HongKongDoll\ 2.mp4
+rm é£ƒ®èƒª±éƒ»ª\ ç¬¬ä¸€è§ƒ¦è§ƒ²çƒ¨±çƒ¨±\ \#çƒ®©å¶å§ƒ°å§ƒ°\ \#HongKongDoll\ 2.mp4
+mv é£ƒ®èƒª±éƒ»ª\ ç¬¬ä¸€è§ƒ¦è§ƒ²çƒ¨±çƒ¨±\ \#çƒ®©å¶å§ƒ°å§ƒ°\ \#HongKongDoll\ 2\ \(2\).mp4 é£ƒ®èƒª±éƒ»ª.mp4
+mpv é£ƒ®èƒª±éƒ»ª.mp4
+ls -la
+rm å¼€å¹´æƒ¶°ä½ƒ¼çƒ¿­ç¯ƒ§éƒ»ƒ¦éƒ´¦ç³»åƒ¨ƒ·_æƒ¶°å­£éƒ§ƒ¬çƒºƒ¤æƒ¿ƒ°ä¸€å¤©_æ€§æƒ¤ƒ¿é»ƒ±ä¸ƒ½æƒ·ƒ·èƒ‚ƒ­_å«©é²ƒ­åƒ°¸èƒ¬ƒ®çƒ«‚å°ƒ¤_\#HongKongDoll_\#çƒ®©å¶å§ƒ°å§ƒ°_@sviphk.mp4
+mpv æƒ·ƒ€åƒ°ƒ­çƒ¿­çƒ©ƒ§9.mp4
+mpv çƒ®©å¶å§ƒ°å§ƒ°æƒ·ƒ€åƒ°ƒ­çƒ¿­çƒ©ƒ§66.mp4
+tmux
+ranger
+ls -la
+cd Downloads
+cd Telegram\ Desktop
+ls -la
+mpv çƒ®©å¶å§ƒ°å§ƒ°HongKongDoll\ åƒ°ƒ®åƒ¥¥ç¾ƒ®èƒ§€ç¦ƒ¯åƒ¨©.mp4
+mpv çƒ®©å¶å§ƒ°å§ƒ°ã€ƒªæƒ£ƒ¥ä¾£æ¸¸æƒ¨ƒ¯éƒ»¶ã€ƒ«è¾ƒ³äºƒ¦ç²ƒ©ç©´èƒ‚«æƒ³ƒ­.mp4
+cd ~
+ls -la
+ls -la
+cd Downloads
+mv Telegram\ Desktop Telegram
+ls -la
+cd Telegram
+ls -la
+ls -la
+ls -la
+ls -la
+cd /etc
+ls -la
+cd ~
+ls -la
+nvtop
+cd .local
+ls -la
+cd share
+ls -la
+cd TelegramDesktop
+ls -la
+cd tdata
+ls -la
+ranger
+cd Downloads
+cd Telegram
+ls -la
+ls -la
+ls -la
+cd ../
+ls la
+ls -la
+ls -la
+cd Telegram
+ls -la
+rm çƒ®©å¶å§ƒ°å§ƒ°HongKongDoll_å¥¹çƒºƒ¤ç§ƒ¸å¯ƒ¦1çƒ¨ƒ¦å°ƒ¤èƒ¼ƒ¼ç©´_é«ƒ¸æ¸ƒ¥1080Påƒ®ƒ¿çƒ©ƒ¨.mp4
+rm -rf ~/.cache/telegram-desktop\
+
+sudo pacman -Rns telegram-desktop
+yay -S telegram-desktop
+telegram-desktop
+ls -la
+mpv
+cd Downloads
+telegram-desktop
+yay -S qt5-svg
+ls -la
+yay -Syyuu
+ls -la
+startx
+cd ~/.config
+ls -la
+btop
+poweroff
+startdocker
+pacman -S opencl-nvidia
+sudo pacman -S opencl-nvidia
+sudo pacman -S opencl-nvidia
+startx
+poweroff
+startdocker
+ls -la
+cd .ssh
+ls -la
+cat id_rsa.pub
+cd .local
+ls -la
+cd dwm
+git remote rm origin 
+git status
+git branch
+git remote show
+git remote -v
+git remote remove
+git remote add git@github.com:haiword135/dwm.git
+startx
+nvidia-smi
+cd .local
+ls -la
+cd dwm
+git remote add origin git@github.com:haiword135/dwm.git
+git remote add -v
+git remote -v
+git add .
+git commit -m "config"
+git push
+git push origin
+git push origin main
+git push origin main
+reboot
+startdocker
+sudo pacman -S lib32-opencl-nvidia 
+cd .local
+ls -la
+cd share
+ls -la
+cd ../
+cd dwm
+nvim config.def.h
+wget https://dwm.suckless.org/patches/single_tagset/dwm-single_tagset-20211015-a786211.diff
+cd .local
+ls -la
+cd dwm
+ls -la
+vim dwm.c.rej
+cd .local
+ls -la
+cd dwm
+patch < dwm-single_tagset-20211015-a786211.diff
+cd ../
+ls -la
+code dwm
+cd dwm
+git status
+git restore .
+git staus
+git status
+nvim config.def.h
+nvim config.def.h
+sudo make clean install 
+wget https://dwm.suckless.org/patches/staticstatus/dwm-staticstatus-20211010-a786211.diff
+ls -la
+cd Downloads
+cd Telegram
+ls -la
+mpv é£ƒ®èƒª±éƒ»ª.mp4
+mpv çƒ®©å¶å§ƒ°å§ƒ°ã€ƒªæƒ£ƒ¥ä¾£æ¸¸æƒ¨ƒ¯éƒ»¶ã€ƒ«è¾ƒ³äºƒ¦ç²ƒ©ç©´èƒ‚«æƒ³ƒ­.mp4
+mpv çƒ®©å¶å§ƒ°å§ƒ°æƒ·ƒ€åƒ°ƒ­çƒ¿­çƒ©ƒ§66.mp4
+mpv çƒ®©å¶å§ƒ°å§ƒ°HongKongDoll\ åƒ°ƒ®åƒ¥¥ç¾ƒ®èƒ§€ç¦ƒ¯åƒ¨©.mp4
+mpv æƒ·ƒ€åƒ°ƒ­çƒ¿­çƒ©ƒ§9.mp4
+rm *
+rm -rf *
+rm é£ƒ®èƒª±éƒ»ª.mp4
+rm çƒ®©å¶å§ƒ°å§ƒ°ã€ƒªæƒ£ƒ¥ä¾£æ¸¸æƒ¨ƒ¯éƒ»¶ã€ƒ«è¾ƒ³äºƒ¦ç²ƒ©ç©´èƒ‚«æƒ³ƒ­.mp4
+rm çƒ®©å¶å§ƒ°å§ƒ°æƒ·ƒ€åƒ°ƒ­çƒ¿­çƒ©ƒ§66.mp4
+rm çƒ®©å¶å§ƒ°å§ƒ°HongKongDoll\ åƒ°ƒ®åƒ¥¥ç¾ƒ®èƒ§€ç¦ƒ¯åƒ¨©.mp4
+btop
+rm æƒ·ƒ€åƒ°ƒ­çƒ¿­çƒ©ƒ§9.mp4
+ls -la
+btop
+ls -la
+startdocker
+startx
+ls -la
+cd $GOPATH
+ls -la
+cd src
+ls -la
+cd study
+ll
+ls -la
+cat 1.go
+btop
+htop
+poweroff
+startdocker
+startx
+poweroff
+startdocker
+code $GOPATH
+htop
+btop
+htop
+btop
+nvtop
+systemctl status sshd
+startx
+poweroff
+poweroff
+startdocker
+startx
+pacman -Syyuu
+sudo pacman -Syyuu
+yay -Syyuu
+reboot
+reboot
+startdocker
+btop
+nvtop
+startx
+reboot
+reboot
+startdocker
+ls -la
+cd /home/Hua/Code/Go
+cd src
+ls -la
+cd study
+ls -la
+ls -la
+go run 2.go
+go run 2.go
+nvidia-smi
+cd $GOPATH
+cd src
+ls -la
+cd New
+ls -la
+cd ../
+cd study
+nvim 2.go
+go run 2.go
+nvim 2.go
+go run 2.go
+nvim 2.go
+nvim 2.go
+nvim 3.go
+startx
+cd $GOPATH
+cd src
+go run 2.go
+cd study
+go run 2.go
+go run 2.go
+go run 2.go
+btop
+htop
+go run 2.go
+go run 2.go
+go run 2.go
+go run 2.go
+go run 2.go
+go run 2.go 3 5
+go run 2.go 3 5
+go run 2.go 3 5
+go run 2.go 3 5
+go run 2.go 3 5
+go run 3.go 
+go run 3.go 
+poweroff
+startdocker
+cd $GOPATH
+cd src
+ls -la
+cd study
+ls -la
+cat go.mod
+ls -la
+rm 1.go
+rm 2.go 3.go
+ls -la
+cat calculator.go
+vim calculator.go
+vim calculator.go
+go mod init github.com/myuser/study
+rm go.mod
+go mod init github.com/myuser/study
+go mod tidy
+cat ~/.xinitrc
+btop
+startx
+cd $GOPATH
+ls -la
+cd src
+ls -la
+cd study
+ls -la
+nvim calculator
+nvim calculator.go
+go mod init github.com/hello/caculator
+ls -la
+cat go.mod
+rm go.mod
+go mod init github.com/hello/study
+cat go.mod
+cd ../
+ls -la
+mkdir helloworld
+cd helloworld
+ls -la
+nvim main.go
+go mod init hwllword
+rm go.mod
+go mod init helloword
+nvim go.mod
+go run main.go
+nvim go.mod
+go run main.go
+nvim main.go
+go run main.go
+nvim main.go
+go run main.go
+nvim go.mod
+go run main.go
+nvim go.mod
+nvim main.go
+go run main.go
+nvim main.go
+go run main.go
+nvim main.go
+go run main.go
+nvim main.go
+go run main.go
+ls -la
+cd ../
+ls -la
+cat ~/.xinitrc
+rebooy
+reboot
+poweroff
+java
+javac
+java -Version
+java -version
+cd .local
+ls -a
+cd Java
+ls -la
+cd jdk11
+ls -la
+cd lib
+ls -la
+cd ../
+	ls -la
+cd .local
+ls -la
+cd Java
+ls -la
+cd jdk11
+ls -la
+cd bin
+ls -la
+./javac
+./java -version
+startdocker
+cd $GOPATH
+ls -la
+cd src
+ls -la
+cd study
+ls -la
+go run if.go
+go run if.go
+go run if.go
+go run if.go
+go run if.go
+go run if.go
+neofetch
+cd ~
+cd CO
+cd Code
+ls- la
+ls -kla
+mkdir Java
+ls -la
+cd Java
+ls -la
+cd ../..
+cd .config
+ls -la
+cd picom
+ls -la
+xprop
+nvim picom.conf
+ls -la
+exit
+cd $GOPATH
+cs src
+cd src
+ls -la
+cd study
+ls -oa
+nvim if.go
+ nvim switch.go
+nvim 1.go
+startx
+cd $GOPATH
+ls -la
+cd pkg
+ls -la
+cd mod
+ls -la
+cd github.com
+ls -la
+cd ../
+ls -la
+ccd ../
+cd ..
+ls -la
+cd sumdb
+ls -la
+cd ../
+cd ..
+cd src
+ls -la
+cd study
+go run switch.go
+go run switch.go
+go run switch.go
+go run switch.go
+go run switch.go
+go run switch.go
+go run switch.go
+go run switch.go
+go run switch.go
+go run switch.go
+go run switch.go
+go run switch.go
+go run switch.go
+go run switch.go
+go run switch.go
+go run switch.go
+go run switch.go
+go run switch.go
+go run switch.go
+go run switch.go
+go run switch.go
+go run switch.go
+go run switch.go
+go run switch.go
+go run switch.go
+go run switch.go
+go run switch.go
+go run switch.go
+go run switch.go
+go run switch.go
+go run switch.go
+tmux
+btop
+htop
+go run 1.go
+go run 1.go
+go run 1.go
+go run 1.go
+go run 1.go
+go run 1.go
+go run 1.go
+go run 1.go
+go run 1.go
+go run 1.go
+go run 1.go
+go run 1.go
+go run 1.go
+go run 1.go
+go run 1.go
+go run 1.go
+go run 1.go
+go run 1.go
+go run 1.go
+go run 1.go
+go run 1.go
+go run 1.go
+go run 1.go
+go run 1.go
+go run 1.go
+go run 1.go
+go run 1.go
+go run 1.go
+ranger
+startx
+poweroff
+startx
+poweroff
+microsoft-edge-stable
+btop
+startx
+btop
+btop
+poweroff
+poweroff
+startdocker
+cd $GOPATH
+ls -la
+cd src
+cd study
+go run for.go
+go run for.go
+go run for.go
+pacman -S gping
+sudo pacman -S gping
+yay -S gping
+pacman  -S gping
+sudo pacman  -S gping
+gping www.baidu.com
+pacman -Rns gping
+sudo pacman -Rns gping
+ls -la
+cd $GOPATH
+cd src
+ls -la
+cd study
+ls-la
+ls -la
+nvim for.go
+cd ~/.config
+ls -la
+cd google-chrome
+cd ..
+exit
+cd ../
+cd ,,.
+cd p
+cd ..
+cd pkg
+ls -la
+cd mod
+ls -la
+cd ~
+vim .xinitrc
+cd .config
+cd zsh
+vim .zshrc
+exit
+go mod init
+go mod init.
+go mod init .
+startx
+cd $GOPATH
+ls -la
+cd src
+ls -la
+cd study
+ls -la
+go run for.go
+go run for.go
+go run for.go
+go run for.go
+go run for.go
+go run for.go
+go run for.go
+go run for.go
+yay -S yesplaymusic
+yay -S yesplaymusic
+cd .co
+tmux 
+go run for.go
+go run for.go
+go run for.go
+go run for.go
+go run for.go
+go run for.go
+go run for.go
+tmux
+go run defer.go
+go run defer.go
+go run defer.go
+cat learnGo.txt
+vim learnGo.txt
+vim learnGo.txt
+vim learnGo.txt
+vim learnGo.txt
+go run defer.go
+go run defer.go
+cat learnGo.txt
+go run defer.go
+poweroff
+startx
+ifconfig
+ifconfig
+ifconfig
+ifconfig
+poweroff
+poweroff
+poweroff
+startx
+ifconfig
+poweroff
+startdocker
+ping http://192.168.116.8/
+ping 192.168.116.8
+cd Downloads
+cd ..
+cd Documents
+ls -la
+cd QQ
+ls -la
+ls -la
+rm shareBookSource.json
+cd ~/.config/zsh
+nvim .zshrc
+startx
+code $GOPATH
+pacman -Syyuu
+sudo pacman -Syyuu
+poweroff
+neofetch
+startx
+neofetch
+nvidia-smi
+poweroff
+startx
+xrandr list provide
+xrandr list provider
+xrandr list provider
+xrandr -display
+xrandr --auto
+xrandr --dpi
+startdocker
+xrandr
+lspci | grep -e VGA -e 3D
+cd /etc/X11
+ls -la
+cat xorg.conf.d
+cd xorg.conf.d
+ls -la
+lspci -k | grep -A 2 -E "(VGA|3D)"
+xdpyinfo | grep -B2 resolution
+nvidia-settings
+ lspci | grep "VGA|3D controller"
+nvtop
+nvidia-smi
+btop
+poweroff
+poweroff
+startdocker
+code
+rofi -show windows
+rofi
+rofi 
+rofi  -show window
+rofi  -show window
+rofi  -show window
+rofi  
+rofi  -show ssh
+ping http://172.16.9.206/
+ping 172.16.9.206
+startx
+cd src
+cd study
+ls -la
+go run panic.go
+go run panic.go
+startdocker
+startx
+clock
+cd $GOPATH
+cd src
+l -la
+ls -la
+cd helloworld
+ls -la
+cd ../
+cd study
+go run panic.go
+go run panic.go
+go run recover.go
+pwoeroff
+poweroff
+reboot
+nvtop
+nvidia-smi
+startdocker
+go env
+go env | grep -i -E "root|path|goproxy|module"
+microsoft-edge-stable
+microsoft-edge-stable
+startx
+clear
+ sudo    light -S 
+ sudo    light -S 0
+ sudo    light -S 100
+ sudo    light -S 0
+ sudo    light -S 0
+ sudo    light -S 0
+ sudo    light -S 0
+ sudo    light -S 100
+ sudo    light -S 50
+ sudo    light -S 30
+ sudo    light -S 10
+ sudo    light -S 75
+clear 
+startx
+yay -S  wemeet-bin
+yay -S  wemeet-bin
+pacman -Rns qt5ct
+sudo pacman -Rns qt5ct
+btop
+btop
+echo $GOROOY
+go env
+cd loc
+cd .local
+ls -la
+cd ..
+cd .config
+ls -la
+cd zsh
+ls -la
+nvim .zshrc
+nvim ~/.xinitrc
+go list
+cd $GOPATH
+go list
+cd src
+ls -la
+cd helloworld
+ls -la
+go list
+cd ../
+cs study
+cd study
+ls -la
+nvim fizzbuzz.go
+go run fizzbuzz.go
+nvim fizzbuzz.go
+go run fizzbuzz.go
+ls -la
+nvim 2.go
+go list
+ls -la
+poweroff
+poweroff
+poweroff
+nvim .xinitrc
+go env
+vim .xinitrc
+cd $GOPATH
+ls -la
+cd pkg
+ls -la
+cd mod
+ls -la
+cd ..
+rm -rf *
+ls -la
+ranger
+sudo rm -rf *
+cd ../
+cd bin
+rm -rf *
+startdocker
+btop
+btop
+go env
+vim .xinitrc
+goenv
+go env
+\:q
+go
+nvim .xinitrc
+cd .local
+ls -la
+cd dwm
+ls -la
+mv .gitignore .gitignore
+nvim .gitignore
+ls -la
+ls -la
+mv dwm-single_tagset-20211015-a786211.diff patches
+mv dwm-staticstatus-20211010-a786211.diff
+mv dwm-staticstatus-20211010-a786211.diff patches
+ls -la
+git add .
+git commit -m "no patch staticstatus and single_tagset"
+git push origin main
+git push origin main
+pavucontrol
+btop
+nvidia-smi
+startx
+startx
+vim .xinitrc
+nvim .xinitrc
+startx
+poweroff
+go mod init
+ls -la
+reboot
+startdocker
+Thunar
+sudo pacman -S gvfs 
+btop
+htop
+ranger
+ranger
+ls -la
+cd .nv
+ls -la
+cd ..
+ls -la
+ranger
+cd .loo
+cd .local/share/applications
+ls -la
+nvim mimeapps.list
+thunar
+sudo pacman -S ntfs-3g 
+cd ..
+cd ~
+neofetch

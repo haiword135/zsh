@@ -18,13 +18,15 @@ _comp_options+=(globdots)		# Include hidden files.
 zstyle ':completion:*' matcher-list 'm:{a-z}={A-Z}'
 
 # Load zsh-syntax-highlighting; should be last.
-source ~/.config/zsh/plugins/fzf-tab/fzf-tab.plugin.zsh 2> /dev/null
+source ~/.config/zsh/plugins/fzf-tab/fzf-tab.plugin.zsh 2>/dev/null
 source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh 2>/dev/null
 source ~/.config/zsh/plugins/sudo/sudo.plugin.zsh 2> /dev/null
 
 
 source  ~/.config/zsh/.alias
 
-export GO111MODULE=auto
-export GOPATH=$HOME/Code/Go
-export PATH=$PATH:/usr/local/go/bin
+#export GO111MODULE=off
+#export GOPATH=$HOME/Code/Go
+#export PATH=$PATH:/usr/local/go/bin
+#export GOPROXY=https://goproxy.cn
+export EDITOR = nvim
