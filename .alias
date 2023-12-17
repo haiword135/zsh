@@ -12,5 +12,9 @@ alias yaySearch='yay -Slq | fzf --multi --preview 'yay -Si {1}' | xargs -ro yay 
 alias cat='bat'
 alias ls='exa -la --color=auto --icons'
 alias ll='ls -la'
-alias longnavicat='rm -rf ~/.config/dconf/user && rm -rf ~/.config/navicat'
+alias clearnavicat='rm -rf ~/.config/dconf/user && rm -rf ~/.config/navicat'
 alias dmidecode
+alias Book='cd ~/Downloads/Book/'
+alias gradle='~/Code/exercism/java/gradle-8.4/bin/gradle'
+alias dust
+alias iftop
